@@ -2,7 +2,7 @@ var app = new Vue({
     el: '#app',
     data: {
         message: 'Hello Vue!',
-        username: localStorage.getItem('username'),
+        username: localStorage.getItem('username') || "",
         data: {},
         solved: JSON.parse(localStorage.getItem('solved')),
     },
