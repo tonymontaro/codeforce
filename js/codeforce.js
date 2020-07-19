@@ -4,7 +4,7 @@ var app = new Vue({
         message: 'Hello Vue!',
         username: localStorage.getItem('username') || "",
         data: {},
-        solved: JSON.parse(localStorage.getItem('solved')),
+        solved: JSON.parse(localStorage.getItem('solved')) || {},
     },
     mounted() {
         let dis = this;
