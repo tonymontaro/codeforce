@@ -1,0 +1,39 @@
+.problem {
+    display: inline-block;
+    border: 1px solid #0f0f0f;
+    padding: 5px;
+    border-radius: 3px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.problem:hover {
+    text-decoration: none;
+    border-color: #ddd;
+}
+
+.problems li {
+    margin-bottom: 25px;
+}
+
+.content {
+    padding-top: 30px;
+}
+
+form {
+    width: 100%
+}
+
+/*
+< 800      
+#7f7f7f
+
+
+#804001
+#007f01
+#04c0c0
+#0d00ff
+#bfc002
+#ff8001
+#fe0200
+*/
