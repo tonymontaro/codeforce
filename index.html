@@ -47,10 +47,9 @@
                             <div class="card-body">
                                 <ol class="problems">
                                     <li v-for="problemSet in div3problems">
-                                        <span>({{problemSet[0].contestId}})</span><br>
                                         <a class="problem" :style="`color: ${problem.color}; background-color: ${solved[problem.id] ? '#d8f7df' : 'white'};`" v-for="problem in problemSet" :title="`Rating: ${problem.rating}`" :href="`https://codeforces.com/problemset/problem/${problem.id}`" target="_blank">
                                             {{ `${problem.index}. ${problem.name}` }}
-                                        </a>
+                                        </a> <span>({{problemSet[0].contestId}})</span>
                                     </li>
                                 </ol>
                             </div>
