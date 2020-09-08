@@ -35,8 +35,8 @@ fetch(problemUrl, settings)
                     if (rating >= 800 && rating < 1000) color = "#804001";
                     if (rating >= 1000 && rating < 1200) color = "#007f01";
                     if (rating >= 1200 && rating < 1600) color = "#04c0c0";
-                    if (rating >= 1600 && rating < 2000) color = "#0d00ff";
-                    if (rating >= 2000 && rating < 2400) color = "#bfc002";
+                    if (rating >= 1600 && rating < 2001) color = "#0d00ff";
+                    if (rating >= 2001 && rating < 2400) color = "#bfc002";
                     if (rating >= 2400 && rating < 2800) color = "#ff8001";
                     if (rating >= 2800) color = "#fe0200";
                     problems[name].color = color;
