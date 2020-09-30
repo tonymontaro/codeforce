@@ -24,16 +24,14 @@ form {
     width: 100%
 }
 
-/*
-< 800      
-#7f7f7f
-
-
-#804001
-#007f01
-#04c0c0
-#0d00ff
-#bfc002
-#ff8001
-#fe0200
-*/
+.problemColors {
+    color: #ccc;
+    color: #76fd77;
+    color: #77ddbb;
+    color: #aaf;
+    color: #f988ff;
+    color: #fdcc87;
+    color: #ffbb55;
+    color: #f77;
+    color: #f33;
+}

@@ -31,14 +31,15 @@ fetch(problemUrl, settings)
                     if (contests[contestId] == undefined) contests[contestId] = [];
                     contests[contestId].push(name);
                     problems[name] = item;
-                    let color = "#7f7f7f";
-                    if (rating >= 800 && rating < 1000) color = "#804001";
-                    if (rating >= 1000 && rating < 1200) color = "#007f01";
-                    if (rating >= 1200 && rating < 1600) color = "#04c0c0";
-                    if (rating >= 1600 && rating < 2001) color = "#0d00ff";
-                    if (rating >= 2001 && rating < 2400) color = "#bfc002";
-                    if (rating >= 2400 && rating < 2800) color = "#ff8001";
-                    if (rating >= 2800) color = "#fe0200";
+                    let color = "#ccc";
+                    if (rating >= 1200 && rating < 1400) color = "#76fd77";
+                    if (rating >= 1400 && rating < 1600) color = "#77ddbb";
+                    if (rating >= 1600 && rating < 1900) color = "#aaf";
+                    if (rating >= 1900 && rating < 2100) color = "#f988ff";
+                    if (rating >= 2100 && rating < 2300) color = "#fdcc87";
+                    if (rating >= 2300 && rating < 2400) color = "#ffbb55";
+                    if (rating >= 2400 && rating < 2600) color = "#f77";
+                    if (rating >= 2600) color = "#f33";
                     problems[name].color = color;
                     problems[name].id = name;
                 }
