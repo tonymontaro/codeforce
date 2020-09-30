@@ -5,16 +5,28 @@ var app = new Vue({
         username: localStorage.getItem('username') || "",
         data: {},
         solved: JSON.parse(localStorage.getItem('solved')) || {},
+        titles: ["Div. 3", "Div. 2", "Div. 1", "Educational", "other"],
+
     },
     mounted() {
         let dis = this;
         $.getJSON("js/data.json", function (data) {
             dis.data = data;
+
         });
         $('[data-toggle="tooltip"]').tooltip();
+
         this.getUserData();
+
     },
     computed: {
+        problemSets(){
+            let sets = [[], [], [], [], []]
+            for (let i = 0; i < this.titles.length; i++){
+                sets[i] = this.getProblems(this.titles[i]);
+            }
+            return sets;
+        },
         div3problems() {
             return this.getProblems("Div. 3");
         },
