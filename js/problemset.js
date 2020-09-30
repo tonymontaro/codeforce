@@ -31,7 +31,8 @@ fetch(problemUrl, settings)
                     if (contests[contestId] == undefined) contests[contestId] = [];
                     contests[contestId].push(name);
                     problems[name] = item;
-                    let color = "#ccc";
+                    let color = "#fff";
+                    if (rating >= 0 && rating < 1200) color = "#ccc";
                     if (rating >= 1200 && rating < 1400) color = "#76fd77";
                     if (rating >= 1400 && rating < 1600) color = "#77ddbb";
                     if (rating >= 1600 && rating < 1900) color = "#aaf";
