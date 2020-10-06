@@ -6,6 +6,7 @@ var app = new Vue({
         data: {},
         solved: JSON.parse(localStorage.getItem('solved')) || {},
         titles: ["Div. 3", "Div. 2", "Div. 1", "Educational", "other"],
+        hideSolved: false,
 
     },
     mounted() {

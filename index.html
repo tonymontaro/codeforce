@@ -17,6 +17,7 @@
 
 <body>
     <div id="app">
+
         <nav class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
             <a class="navbar-brand col-md-3 col-lg-2 mr-0 px-3" href="#">Codeforce </a>
 
@@ -25,6 +26,7 @@
             <ul class="navbar-nav px-3">
                 <li class="nav-item text-nowrap">
                     <button v-on:click="search()" class="btn" style="color: white">Search</button>
+                    <input v-model="hideSolved" type="checkbox"> <span>hide solved</span>
                 </li>
             </ul>
         </nav>
@@ -42,14 +44,14 @@
 
 
 
-                  <div class="tab-content" id="myTabContent">
+                  <div :class="'tab-content ' + (hideSolved ? 'hideSolve' : '')" id="myTabContent">
                     <div v-for="(set, index) in problemSets"
                     :class="index > 0 ? 'tab-pane fade' : 'tab-pane fade show active'" :id="'set' + index" role="tabpanel" aria-labelledby="contact-tab">
                         <ol class="problems">
                             <li v-for="problemSet in set">
                                 <a 
-                                class="problem" 
-                                :style="` background-color: ${solved[problem.id] ? '#d8f7df' : 'white'}; ${solved[problem.id] ? 'color: #888;' : ''}`" v-for="problem in problemSet" :title="`Rating: ${problem.rating}`" :href="`https://codeforces.com/problemset/problem/${problem.id}`" target="_blank">
+                                :class="`problem ${solved[problem.id] ? 'solved' : ''}`" 
+                                v-for="problem in problemSet" :title="`Rating: ${problem.rating}`" :href="`https://codeforces.com/problemset/problem/${problem.id}`" target="_blank">
                                     {{ `${problem.index}. ${problem.name}` }} <span class="color" :style="`background-color: ${problem.color};`" ></span>
                                 </a> <a :href="'https://codeforces.com/contest/' + problemSet[0].contestId" target="_blank"><span>{{problemSet[0].contestId}}</span></a>
                             </li>

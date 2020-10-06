@@ -11,6 +11,17 @@ main {
     margin-right: 15px;
     margin-bottom: 15px;
     color: #343a40;
+    background-color: white;
+}
+.solved{
+    color: #888;
+    background-color: #d8f7df;
+}
+.hideSolve .solved {
+    display: none;
+}
+.nav-item span {
+    color: white;
 }
 .problem .color{
     width: 10px;
