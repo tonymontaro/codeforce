@@ -47,7 +47,7 @@ fetch(problemUrl, settings)
                 for (let item of data.result.problemStatistics) {
                     let { contestId, index } = item;
                     let name = `${contestId}/${index}`;
-                    problems[name].solvedCount = item.solvedCount;
+                    // problems[name].solvedCount = item.solvedCount;
                 }
 
                 const groups = {
