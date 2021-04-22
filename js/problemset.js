@@ -43,6 +43,8 @@ fetch(problemUrl, settings)
                     if (rating >= 2600) color = "#f33";
                     problems[name].color = color;
                     problems[name].id = name;
+                    // remove tags to reduce data size
+                    problems[name].tags = "";
                 }
                 for (let item of data.result.problemStatistics) {
                     let { contestId, index } = item;
