@@ -67,7 +67,7 @@ fetch(problemUrl, settings)
 
                 const res = { groups, problems, contests }
                 console.log(Object.keys(res))
-                const tofile = JSON.stringify(res);
+                const tofile = JSON.stringify(res, null, 2);
 
                 fs.writeFile('js/data.json', tofile, (err) => {
                     if (err) {
