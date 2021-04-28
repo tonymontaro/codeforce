@@ -1466,8 +1466,9 @@
       "name": "Fly Around the World",
       "type": "PROGRAMMING",
       "points": 4000,
+      "rating": 3500,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1517/H"
     },
     "1517/G": {
@@ -1476,8 +1477,9 @@
       "name": "Starry Night Camping",
       "type": "PROGRAMMING",
       "points": 3000,
+      "rating": 3300,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1517/G"
     },
     "1517/F": {
@@ -1486,8 +1488,9 @@
       "name": "Reunion",
       "type": "PROGRAMMING",
       "points": 3000,
+      "rating": 3200,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1517/F"
     },
     "1517/E": {
@@ -1496,8 +1499,9 @@
       "name": "Group Photo",
       "type": "PROGRAMMING",
       "points": 2500,
+      "rating": 2500,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1517/E"
     },
     "1517/D": {
@@ -1506,8 +1510,9 @@
       "name": "Explorer Space",
       "type": "PROGRAMMING",
       "points": 1750,
+      "rating": 1800,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1517/D"
     },
     "1517/C": {
@@ -1516,8 +1521,9 @@
       "name": "Fillomino 2",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 1400,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1517/C"
     },
     "1517/B": {
@@ -1526,8 +1532,9 @@
       "name": "Morning Jogging",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 1200,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1517/B"
     },
     "1517/A": {
@@ -1536,8 +1543,9 @@
       "name": "Sum of 2050",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1517/A"
     },
     "1516/E": {
