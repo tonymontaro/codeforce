@@ -1118,6 +1118,7 @@
       77
     ],
     "other": [
+      1522,
       1515,
       1510,
       1505,
@@ -1460,6 +1461,60 @@
     ]
   },
   "problems": {
+    "1519/F": {
+      "contestId": 1519,
+      "index": "F",
+      "name": "Chests and Keys",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1519/F"
+    },
+    "1519/E": {
+      "contestId": 1519,
+      "index": "E",
+      "name": "Off by One",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1519/E"
+    },
+    "1519/D": {
+      "contestId": 1519,
+      "index": "D",
+      "name": "Maximum Sum of Products",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1519/D"
+    },
+    "1519/C": {
+      "contestId": 1519,
+      "index": "C",
+      "name": "Berland Regional",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1519/C"
+    },
+    "1519/B": {
+      "contestId": 1519,
+      "index": "B",
+      "name": "The Cake Is a Lie",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1519/B"
+    },
+    "1519/A": {
+      "contestId": 1519,
+      "index": "A",
+      "name": "Red and Blue Beans",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1519/A"
+    },
     "1517/H": {
       "contestId": 1517,
       "index": "H",
@@ -84751,6 +84806,14 @@
       "1517/C",
       "1517/B",
       "1517/A"
+    ],
+    "1519": [
+      "1519/F",
+      "1519/E",
+      "1519/D",
+      "1519/C",
+      "1519/B",
+      "1519/A"
     ]
   }
 }
