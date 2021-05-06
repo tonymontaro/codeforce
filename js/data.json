@@ -171,6 +171,7 @@
       977
     ],
     "Div. 2": [
+      1523,
       1521,
       1517,
       1516,
@@ -1461,13 +1462,86 @@
     ]
   },
   "problems": {
+    "1520/G": {
+      "contestId": 1520,
+      "index": "G",
+      "name": "To Go Or Not To Go?",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1520/G"
+    },
+    "1520/F2": {
+      "contestId": 1520,
+      "index": "F2",
+      "name": "Guess the K-th Zero (Hard version)",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1520/F2"
+    },
+    "1520/F1": {
+      "contestId": 1520,
+      "index": "F1",
+      "name": "Guess the K-th Zero (Easy version)",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1520/F1"
+    },
+    "1520/E": {
+      "contestId": 1520,
+      "index": "E",
+      "name": "Arranging The Sheep",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1520/E"
+    },
+    "1520/D": {
+      "contestId": 1520,
+      "index": "D",
+      "name": "Same Differences",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1520/D"
+    },
+    "1520/C": {
+      "contestId": 1520,
+      "index": "C",
+      "name": "Not Adjacent Matrix",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1520/C"
+    },
+    "1520/B": {
+      "contestId": 1520,
+      "index": "B",
+      "name": "Ordinary Numbers",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1520/B"
+    },
+    "1520/A": {
+      "contestId": 1520,
+      "index": "A",
+      "name": "Do Not Be Distracted!",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1520/A"
+    },
     "1519/F": {
       "contestId": 1519,
       "index": "F",
       "name": "Chests and Keys",
       "type": "PROGRAMMING",
+      "rating": 3200,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1519/F"
     },
     "1519/E": {
@@ -1475,8 +1549,9 @@
       "index": "E",
       "name": "Off by One",
       "type": "PROGRAMMING",
+      "rating": 2700,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1519/E"
     },
     "1519/D": {
@@ -1484,8 +1559,9 @@
       "index": "D",
       "name": "Maximum Sum of Products",
       "type": "PROGRAMMING",
+      "rating": 1600,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1519/D"
     },
     "1519/C": {
@@ -1493,8 +1569,9 @@
       "index": "C",
       "name": "Berland Regional",
       "type": "PROGRAMMING",
+      "rating": 1400,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1519/C"
     },
     "1519/B": {
@@ -1502,8 +1579,9 @@
       "index": "B",
       "name": "The Cake Is a Lie",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1519/B"
     },
     "1519/A": {
@@ -1511,8 +1589,9 @@
       "index": "A",
       "name": "Red and Blue Beans",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1519/A"
     },
     "1517/H": {
@@ -1657,6 +1736,105 @@
       "tags": "",
       "color": "#ccc",
       "id": "1516/A"
+    },
+    "1515/I": {
+      "contestId": 1515,
+      "index": "I",
+      "name": "Phoenix and Diamonds",
+      "type": "PROGRAMMING",
+      "points": 5000,
+      "rating": 3400,
+      "tags": "",
+      "color": "#f33",
+      "id": "1515/I"
+    },
+    "1515/H": {
+      "contestId": 1515,
+      "index": "H",
+      "name": "Phoenix and Bits",
+      "type": "PROGRAMMING",
+      "points": 4250,
+      "rating": 3500,
+      "tags": "",
+      "color": "#f33",
+      "id": "1515/H"
+    },
+    "1515/G": {
+      "contestId": 1515,
+      "index": "G",
+      "name": "Phoenix and Odometers",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "rating": 2700,
+      "tags": "",
+      "color": "#f33",
+      "id": "1515/G"
+    },
+    "1515/F": {
+      "contestId": 1515,
+      "index": "F",
+      "name": "Phoenix and Earthquake",
+      "type": "PROGRAMMING",
+      "points": 3250,
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1515/F"
+    },
+    "1515/E": {
+      "contestId": 1515,
+      "index": "E",
+      "name": "Phoenix and Computers",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1515/E"
+    },
+    "1515/D": {
+      "contestId": 1515,
+      "index": "D",
+      "name": "Phoenix and Socks",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 1500,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1515/D"
+    },
+    "1515/C": {
+      "contestId": 1515,
+      "index": "C",
+      "name": "Phoenix and Towers",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1400,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1515/C"
+    },
+    "1515/B": {
+      "contestId": 1515,
+      "index": "B",
+      "name": "Phoenix and Puzzle",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1515/B"
+    },
+    "1515/A": {
+      "contestId": 1515,
+      "index": "A",
+      "name": "Phoenix and Gold",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1515/A"
     },
     "1514/E": {
       "contestId": 1514,
@@ -84790,6 +84968,17 @@
       "1514/B",
       "1514/A"
     ],
+    "1515": [
+      "1515/I",
+      "1515/H",
+      "1515/G",
+      "1515/F",
+      "1515/E",
+      "1515/D",
+      "1515/C",
+      "1515/B",
+      "1515/A"
+    ],
     "1516": [
       "1516/E",
       "1516/D",
@@ -84814,6 +85003,16 @@
       "1519/C",
       "1519/B",
       "1519/A"
+    ],
+    "1520": [
+      "1520/G",
+      "1520/F2",
+      "1520/F1",
+      "1520/E",
+      "1520/D",
+      "1520/C",
+      "1520/B",
+      "1520/A"
     ]
   }
 }
