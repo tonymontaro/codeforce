@@ -1,6 +1,7 @@
 {
   "groups": {
     "Educational": [
+      1525,
       1519,
       1511,
       1499,
@@ -1119,6 +1120,7 @@
       77
     ],
     "other": [
+      1524,
       1522,
       1515,
       1510,
@@ -1462,13 +1464,69 @@
     ]
   },
   "problems": {
+    "1521/E": {
+      "contestId": 1521,
+      "index": "E",
+      "name": "Nastia and a Beautiful Matrix",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 2700,
+      "tags": "",
+      "color": "#f33",
+      "id": "1521/E"
+    },
+    "1521/D": {
+      "contestId": 1521,
+      "index": "D",
+      "name": "Nastia Plays with a Tree",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "rating": 2500,
+      "tags": "",
+      "color": "#f77",
+      "id": "1521/D"
+    },
+    "1521/C": {
+      "contestId": 1521,
+      "index": "C",
+      "name": "Nastia and a Hidden Permutation",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1521/C"
+    },
+    "1521/B": {
+      "contestId": 1521,
+      "index": "B",
+      "name": "Nastia and a Good Array",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1521/B"
+    },
+    "1521/A": {
+      "contestId": 1521,
+      "index": "A",
+      "name": "Nastia and Nearly Good Numbers",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1521/A"
+    },
     "1520/G": {
       "contestId": 1520,
       "index": "G",
       "name": "To Go Or Not To Go?",
       "type": "PROGRAMMING",
+      "rating": 2200,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1520/G"
     },
     "1520/F2": {
@@ -1476,8 +1534,9 @@
       "index": "F2",
       "name": "Guess the K-th Zero (Hard version)",
       "type": "PROGRAMMING",
+      "rating": 2200,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1520/F2"
     },
     "1520/F1": {
@@ -1485,8 +1544,9 @@
       "index": "F1",
       "name": "Guess the K-th Zero (Easy version)",
       "type": "PROGRAMMING",
+      "rating": 1600,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1520/F1"
     },
     "1520/E": {
@@ -1494,8 +1554,9 @@
       "index": "E",
       "name": "Arranging The Sheep",
       "type": "PROGRAMMING",
+      "rating": 1400,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1520/E"
     },
     "1520/D": {
@@ -1503,8 +1564,9 @@
       "index": "D",
       "name": "Same Differences",
       "type": "PROGRAMMING",
+      "rating": 1200,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1520/D"
     },
     "1520/C": {
@@ -1512,8 +1574,9 @@
       "index": "C",
       "name": "Not Adjacent Matrix",
       "type": "PROGRAMMING",
+      "rating": 1000,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1520/C"
     },
     "1520/B": {
@@ -1521,8 +1584,9 @@
       "index": "B",
       "name": "Ordinary Numbers",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1520/B"
     },
     "1520/A": {
@@ -1530,8 +1594,9 @@
       "index": "A",
       "name": "Do Not Be Distracted!",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1520/A"
     },
     "1519/F": {
@@ -85013,6 +85078,13 @@
       "1520/C",
       "1520/B",
       "1520/A"
+    ],
+    "1521": [
+      "1521/E",
+      "1521/D",
+      "1521/C",
+      "1521/B",
+      "1521/A"
     ]
   }
 }
