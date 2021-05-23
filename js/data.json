@@ -173,6 +173,9 @@
     ],
     "Div. 2": [
       1523,
+      1526,
+      1529,
+      1527,
       1521,
       1517,
       1516,
@@ -815,6 +818,7 @@
       4
     ],
     "Div. 1": [
+      1528,
       1508,
       1503,
       1483,
@@ -1120,6 +1124,7 @@
       77
     ],
     "other": [
+      1530,
       1524,
       1522,
       1515,
@@ -1464,6 +1469,132 @@
     ]
   },
   "problems": {
+    "1527/E": {
+      "contestId": 1527,
+      "index": "E",
+      "name": "Partition Game",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 2500,
+      "tags": "",
+      "color": "#f77",
+      "id": "1527/E"
+    },
+    "1527/D": {
+      "contestId": 1527,
+      "index": "D",
+      "name": "MEX Tree",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1527/D"
+    },
+    "1527/C": {
+      "contestId": 1527,
+      "index": "C",
+      "name": "Sequence Pair Weight",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1527/C"
+    },
+    "1527/B2": {
+      "contestId": 1527,
+      "index": "B2",
+      "name": "Palindrome Game (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1900,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1527/B2"
+    },
+    "1527/B1": {
+      "contestId": 1527,
+      "index": "B1",
+      "name": "Palindrome Game (easy version)",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1527/B1"
+    },
+    "1527/A": {
+      "contestId": 1527,
+      "index": "A",
+      "name": "And Then There Were K",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1527/A"
+    },
+    "1525/F": {
+      "contestId": 1525,
+      "index": "F",
+      "name": "Goblins And Gnomes",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": "",
+      "color": "#f33",
+      "id": "1525/F"
+    },
+    "1525/E": {
+      "contestId": 1525,
+      "index": "E",
+      "name": "Assimilation IV",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1525/E"
+    },
+    "1525/D": {
+      "contestId": 1525,
+      "index": "D",
+      "name": "Armchairs",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1525/D"
+    },
+    "1525/C": {
+      "contestId": 1525,
+      "index": "C",
+      "name": "Robot Collisions",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1525/C"
+    },
+    "1525/B": {
+      "contestId": 1525,
+      "index": "B",
+      "name": "Permutation Sort",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1525/B"
+    },
+    "1525/A": {
+      "contestId": 1525,
+      "index": "A",
+      "name": "Potion-making",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1525/A"
+    },
     "1521/E": {
       "contestId": 1521,
       "index": "E",
@@ -85085,6 +85216,22 @@
       "1521/C",
       "1521/B",
       "1521/A"
+    ],
+    "1525": [
+      "1525/F",
+      "1525/E",
+      "1525/D",
+      "1525/C",
+      "1525/B",
+      "1525/A"
+    ],
+    "1527": [
+      "1527/E",
+      "1527/D",
+      "1527/C",
+      "1527/B2",
+      "1527/B1",
+      "1527/A"
     ]
   }
 }
