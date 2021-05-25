@@ -1126,6 +1126,7 @@
     "other": [
       1530,
       1524,
+      1531,
       1522,
       1515,
       1510,
@@ -1469,6 +1470,86 @@
     ]
   },
   "problems": {
+    "1529/B": {
+      "contestId": 1529,
+      "index": "B",
+      "name": "Sifid and Strange Subsequences",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1529/B"
+    },
+    "1529/A": {
+      "contestId": 1529,
+      "index": "A",
+      "name": "Eshag Loves Big Arrays",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1529/A"
+    },
+    "1528/F": {
+      "contestId": 1528,
+      "index": "F",
+      "name": "AmShZ Farm",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1528/F"
+    },
+    "1528/E": {
+      "contestId": 1528,
+      "index": "E",
+      "name": "Mashtali and Hagh Trees",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1528/E"
+    },
+    "1528/D": {
+      "contestId": 1528,
+      "index": "D",
+      "name": "It's a bird! No, it's a plane! No, it's AaParsa!",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1528/D"
+    },
+    "1528/C": {
+      "contestId": 1528,
+      "index": "C",
+      "name": "Trees of Tranquillity",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1528/C"
+    },
+    "1528/B": {
+      "contestId": 1528,
+      "index": "B",
+      "name": "Kavi on Pairing Duty",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1528/B"
+    },
+    "1528/A": {
+      "contestId": 1528,
+      "index": "A",
+      "name": "Parsa's Humongous Tree",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1528/A"
+    },
     "1527/E": {
       "contestId": 1527,
       "index": "E",
@@ -85232,6 +85313,18 @@
       "1527/B2",
       "1527/B1",
       "1527/A"
+    ],
+    "1528": [
+      "1528/F",
+      "1528/E",
+      "1528/D",
+      "1528/C",
+      "1528/B",
+      "1528/A"
+    ],
+    "1529": [
+      "1529/B",
+      "1529/A"
     ]
   }
 }
