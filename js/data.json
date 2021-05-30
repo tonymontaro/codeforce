@@ -1125,6 +1125,9 @@
     ],
     "other": [
       1530,
+      1533,
+      1532,
+      1534,
       1524,
       1531,
       1522,
@@ -1476,8 +1479,9 @@
       "name": "Sifid and Strange Subsequences",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 1100,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1529/B"
     },
     "1529/A": {
@@ -1486,8 +1490,9 @@
       "name": "Eshag Loves Big Arrays",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1529/A"
     },
     "1528/F": {
@@ -1496,8 +1501,9 @@
       "name": "AmShZ Farm",
       "type": "PROGRAMMING",
       "points": 3000,
+      "rating": 3300,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1528/F"
     },
     "1528/E": {
@@ -1506,8 +1512,9 @@
       "name": "Mashtali and Hagh Trees",
       "type": "PROGRAMMING",
       "points": 2750,
+      "rating": 2900,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1528/E"
     },
     "1528/D": {
@@ -1516,8 +1523,9 @@
       "name": "It's a bird! No, it's a plane! No, it's AaParsa!",
       "type": "PROGRAMMING",
       "points": 2000,
+      "rating": 2500,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1528/D"
     },
     "1528/C": {
@@ -1526,8 +1534,9 @@
       "name": "Trees of Tranquillity",
       "type": "PROGRAMMING",
       "points": 1750,
+      "rating": 2300,
       "tags": "",
-      "color": "#fff",
+      "color": "#ffbb55",
       "id": "1528/C"
     },
     "1528/B": {
@@ -1536,8 +1545,9 @@
       "name": "Kavi on Pairing Duty",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 1700,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1528/B"
     },
     "1528/A": {
@@ -1546,8 +1556,9 @@
       "name": "Parsa's Humongous Tree",
       "type": "PROGRAMMING",
       "points": 750,
+      "rating": 1600,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1528/A"
     },
     "1527/E": {
@@ -1615,6 +1626,76 @@
       "tags": "",
       "color": "#ccc",
       "id": "1527/A"
+    },
+    "1526/F": {
+      "contestId": 1526,
+      "index": "F",
+      "name": "Median Queries",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1526/F"
+    },
+    "1526/E": {
+      "contestId": 1526,
+      "index": "E",
+      "name": "Oolimry and Suffix Array",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1526/E"
+    },
+    "1526/D": {
+      "contestId": 1526,
+      "index": "D",
+      "name": "Kill Anton",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1526/D"
+    },
+    "1526/C2": {
+      "contestId": 1526,
+      "index": "C2",
+      "name": "Potions (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1526/C2"
+    },
+    "1526/C1": {
+      "contestId": 1526,
+      "index": "C1",
+      "name": "Potions (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1526/C1"
+    },
+    "1526/B": {
+      "contestId": 1526,
+      "index": "B",
+      "name": "I Hate 1111",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1526/B"
+    },
+    "1526/A": {
+      "contestId": 1526,
+      "index": "A",
+      "name": "Mean Inequality",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1526/A"
     },
     "1525/F": {
       "contestId": 1525,
@@ -85305,6 +85386,15 @@
       "1525/C",
       "1525/B",
       "1525/A"
+    ],
+    "1526": [
+      "1526/F",
+      "1526/E",
+      "1526/D",
+      "1526/C2",
+      "1526/C1",
+      "1526/B",
+      "1526/A"
     ],
     "1527": [
       "1527/E",
