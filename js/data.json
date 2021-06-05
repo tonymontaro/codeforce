@@ -1476,6 +1476,60 @@
     ]
   },
   "problems": {
+    "1535/F": {
+      "contestId": 1535,
+      "index": "F",
+      "name": "String Distance",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1535/F"
+    },
+    "1535/E": {
+      "contestId": 1535,
+      "index": "E",
+      "name": "Gold Transfer",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1535/E"
+    },
+    "1535/D": {
+      "contestId": 1535,
+      "index": "D",
+      "name": "Playoff Tournament",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1535/D"
+    },
+    "1535/C": {
+      "contestId": 1535,
+      "index": "C",
+      "name": "Unstable String",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1535/C"
+    },
+    "1535/B": {
+      "contestId": 1535,
+      "index": "B",
+      "name": "Array Reodering",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1535/B"
+    },
+    "1535/A": {
+      "contestId": 1535,
+      "index": "A",
+      "name": "Fair Playoff",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1535/A"
+    },
     "1531/E3": {
       "contestId": 1531,
       "index": "E3",
@@ -85605,6 +85659,14 @@
       "1531/B2",
       "1531/B1",
       "1531/A"
+    ],
+    "1535": [
+      "1535/F",
+      "1535/E",
+      "1535/D",
+      "1535/C",
+      "1535/B",
+      "1535/A"
     ]
   }
 }
