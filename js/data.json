@@ -1476,13 +1476,80 @@
     ]
   },
   "problems": {
+    "1536/F": {
+      "contestId": 1536,
+      "index": "F",
+      "name": "Omkar and Akmar",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1536/F"
+    },
+    "1536/E": {
+      "contestId": 1536,
+      "index": "E",
+      "name": "Omkar and Forest",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "rating": 2300,
+      "tags": "",
+      "color": "#ffbb55",
+      "id": "1536/E"
+    },
+    "1536/D": {
+      "contestId": 1536,
+      "index": "D",
+      "name": "Omkar and Medians",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1536/D"
+    },
+    "1536/C": {
+      "contestId": 1536,
+      "index": "C",
+      "name": "Diluc and Kaeya",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1500,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1536/C"
+    },
+    "1536/B": {
+      "contestId": 1536,
+      "index": "B",
+      "name": "Prinzessin der Verurteilung",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1536/B"
+    },
+    "1536/A": {
+      "contestId": 1536,
+      "index": "A",
+      "name": "Omkar and Bad Story",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1536/A"
+    },
     "1535/F": {
       "contestId": 1535,
       "index": "F",
       "name": "String Distance",
       "type": "PROGRAMMING",
+      "rating": 3000,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1535/F"
     },
     "1535/E": {
@@ -1490,8 +1557,9 @@
       "index": "E",
       "name": "Gold Transfer",
       "type": "PROGRAMMING",
+      "rating": 2200,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1535/E"
     },
     "1535/D": {
@@ -1499,8 +1567,9 @@
       "index": "D",
       "name": "Playoff Tournament",
       "type": "PROGRAMMING",
+      "rating": 1800,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1535/D"
     },
     "1535/C": {
@@ -1508,8 +1577,9 @@
       "index": "C",
       "name": "Unstable String",
       "type": "PROGRAMMING",
+      "rating": 1400,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1535/C"
     },
     "1535/B": {
@@ -1517,8 +1587,9 @@
       "index": "B",
       "name": "Array Reodering",
       "type": "PROGRAMMING",
+      "rating": 900,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1535/B"
     },
     "1535/A": {
@@ -1526,8 +1597,9 @@
       "index": "A",
       "name": "Fair Playoff",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1535/A"
     },
     "1531/E3": {
@@ -45163,7 +45235,7 @@
     "675/D": {
       "contestId": 675,
       "index": "D",
-      "name": "Дерево",
+      "name": "Tree Construction",
       "type": "PROGRAMMING",
       "points": 2000,
       "rating": 1800,
@@ -85667,6 +85739,14 @@
       "1535/C",
       "1535/B",
       "1535/A"
+    ],
+    "1536": [
+      "1536/F",
+      "1536/E",
+      "1536/D",
+      "1536/C",
+      "1536/B",
+      "1536/A"
     ]
   }
 }
