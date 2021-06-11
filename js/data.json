@@ -1477,6 +1477,69 @@
     ]
   },
   "problems": {
+    "1538/G": {
+      "contestId": 1538,
+      "index": "G",
+      "name": "Gift Set",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1538/G"
+    },
+    "1538/F": {
+      "contestId": 1538,
+      "index": "F",
+      "name": "Interesting Function",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1538/F"
+    },
+    "1538/E": {
+      "contestId": 1538,
+      "index": "E",
+      "name": "Funny Substrings",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1538/E"
+    },
+    "1538/D": {
+      "contestId": 1538,
+      "index": "D",
+      "name": "Another Problem About Dividing Numbers",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1538/D"
+    },
+    "1538/C": {
+      "contestId": 1538,
+      "index": "C",
+      "name": "Number of Pairs",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1538/C"
+    },
+    "1538/B": {
+      "contestId": 1538,
+      "index": "B",
+      "name": "Friends and Candies",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1538/B"
+    },
+    "1538/A": {
+      "contestId": 1538,
+      "index": "A",
+      "name": "Stone Game",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1538/A"
+    },
     "1536/F": {
       "contestId": 1536,
       "index": "F",
@@ -85748,6 +85811,15 @@
       "1536/C",
       "1536/B",
       "1536/A"
+    ],
+    "1538": [
+      "1538/G",
+      "1538/F",
+      "1538/E",
+      "1538/D",
+      "1538/C",
+      "1538/B",
+      "1538/A"
     ]
   }
 }
