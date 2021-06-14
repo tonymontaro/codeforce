@@ -1666,6 +1666,96 @@
       "color": "#ccc",
       "id": "1535/A"
     },
+    "1534/H": {
+      "contestId": 1534,
+      "index": "H",
+      "name": "Lost Nodes",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1534/H"
+    },
+    "1534/G": {
+      "contestId": 1534,
+      "index": "G",
+      "name": "A New Beginning",
+      "type": "PROGRAMMING",
+      "points": 3250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1534/G"
+    },
+    "1534/F2": {
+      "contestId": 1534,
+      "index": "F2",
+      "name": "Falling Sand (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1534/F2"
+    },
+    "1534/F1": {
+      "contestId": 1534,
+      "index": "F1",
+      "name": "Falling Sand (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1534/F1"
+    },
+    "1534/E": {
+      "contestId": 1534,
+      "index": "E",
+      "name": "Lost Array",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1534/E"
+    },
+    "1534/D": {
+      "contestId": 1534,
+      "index": "D",
+      "name": "Lost Tree",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1534/D"
+    },
+    "1534/C": {
+      "contestId": 1534,
+      "index": "C",
+      "name": "Little Alawn's Puzzle",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1534/C"
+    },
+    "1534/B": {
+      "contestId": 1534,
+      "index": "B",
+      "name": "Histogram Ugliness",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1534/B"
+    },
+    "1534/A": {
+      "contestId": 1534,
+      "index": "A",
+      "name": "Colour the Flag",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1534/A"
+    },
     "1531/E3": {
       "contestId": 1531,
       "index": "E3",
@@ -85795,6 +85885,17 @@
       "1531/B2",
       "1531/B1",
       "1531/A"
+    ],
+    "1534": [
+      "1534/H",
+      "1534/G",
+      "1534/F2",
+      "1534/F1",
+      "1534/E",
+      "1534/D",
+      "1534/C",
+      "1534/B",
+      "1534/A"
     ],
     "1535": [
       "1535/F",
