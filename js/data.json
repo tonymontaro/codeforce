@@ -1481,13 +1481,80 @@
     ]
   },
   "problems": {
+    "1539/F": {
+      "contestId": 1539,
+      "index": "F",
+      "name": "Strange Array",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1539/F"
+    },
+    "1539/E": {
+      "contestId": 1539,
+      "index": "E",
+      "name": "Game with Cards",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2500,
+      "tags": "",
+      "color": "#f77",
+      "id": "1539/E"
+    },
+    "1539/D": {
+      "contestId": 1539,
+      "index": "D",
+      "name": "PriceFixed",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1539/D"
+    },
+    "1539/C": {
+      "contestId": 1539,
+      "index": "C",
+      "name": "Stable Groups",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1539/C"
+    },
+    "1539/B": {
+      "contestId": 1539,
+      "index": "B",
+      "name": "Love Song",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1539/B"
+    },
+    "1539/A": {
+      "contestId": 1539,
+      "index": "A",
+      "name": "Contest Start",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1539/A"
+    },
     "1538/G": {
       "contestId": 1538,
       "index": "G",
       "name": "Gift Set",
       "type": "PROGRAMMING",
+      "rating": 2100,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1538/G"
     },
     "1538/F": {
@@ -1495,8 +1562,9 @@
       "index": "F",
       "name": "Interesting Function",
       "type": "PROGRAMMING",
+      "rating": 1500,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1538/F"
     },
     "1538/E": {
@@ -1504,8 +1572,9 @@
       "index": "E",
       "name": "Funny Substrings",
       "type": "PROGRAMMING",
+      "rating": 2100,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1538/E"
     },
     "1538/D": {
@@ -1513,8 +1582,9 @@
       "index": "D",
       "name": "Another Problem About Dividing Numbers",
       "type": "PROGRAMMING",
+      "rating": 1700,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1538/D"
     },
     "1538/C": {
@@ -1522,8 +1592,9 @@
       "index": "C",
       "name": "Number of Pairs",
       "type": "PROGRAMMING",
+      "rating": 1300,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1538/C"
     },
     "1538/B": {
@@ -1531,8 +1602,9 @@
       "index": "B",
       "name": "Friends and Candies",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1538/B"
     },
     "1538/A": {
@@ -1540,9 +1612,87 @@
       "index": "A",
       "name": "Stone Game",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1538/A"
+    },
+    "1537/F": {
+      "contestId": 1537,
+      "index": "F",
+      "name": "Figure Fixing",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1537/F"
+    },
+    "1537/E2": {
+      "contestId": 1537,
+      "index": "E2",
+      "name": "Erase and Extend (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1537/E2"
+    },
+    "1537/E1": {
+      "contestId": 1537,
+      "index": "E1",
+      "name": "Erase and Extend (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1537/E1"
+    },
+    "1537/D": {
+      "contestId": 1537,
+      "index": "D",
+      "name": "Deleting Divisors",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1537/D"
+    },
+    "1537/C": {
+      "contestId": 1537,
+      "index": "C",
+      "name": "Challenging Cliffs",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1537/C"
+    },
+    "1537/B": {
+      "contestId": 1537,
+      "index": "B",
+      "name": "Bad Boy",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1537/B"
+    },
+    "1537/A": {
+      "contestId": 1537,
+      "index": "A",
+      "name": "Arithmetic Array",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1537/A"
     },
     "1536/F": {
       "contestId": 1536,
@@ -1676,8 +1826,9 @@
       "name": "Lost Nodes",
       "type": "PROGRAMMING",
       "points": 3500,
+      "rating": 3500,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1534/H"
     },
     "1534/G": {
@@ -1686,8 +1837,9 @@
       "name": "A New Beginning",
       "type": "PROGRAMMING",
       "points": 3250,
+      "rating": 3300,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1534/G"
     },
     "1534/F2": {
@@ -1696,8 +1848,9 @@
       "name": "Falling Sand (Hard Version)",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 3000,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1534/F2"
     },
     "1534/F1": {
@@ -1706,8 +1859,9 @@
       "name": "Falling Sand (Easy Version)",
       "type": "PROGRAMMING",
       "points": 1750,
+      "rating": 2500,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1534/F1"
     },
     "1534/E": {
@@ -1716,8 +1870,9 @@
       "name": "Lost Array",
       "type": "PROGRAMMING",
       "points": 2250,
+      "rating": 2300,
       "tags": "",
-      "color": "#fff",
+      "color": "#ffbb55",
       "id": "1534/E"
     },
     "1534/D": {
@@ -1726,8 +1881,9 @@
       "name": "Lost Tree",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 1800,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1534/D"
     },
     "1534/C": {
@@ -1736,8 +1892,9 @@
       "name": "Little Alawn's Puzzle",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 1300,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1534/C"
     },
     "1534/B": {
@@ -1746,8 +1903,9 @@
       "name": "Histogram Ugliness",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 1100,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1534/B"
     },
     "1534/A": {
@@ -1756,8 +1914,9 @@
       "name": "Colour the Flag",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1534/A"
     },
     "1531/E3": {
@@ -85917,6 +86076,15 @@
       "1536/B",
       "1536/A"
     ],
+    "1537": [
+      "1537/F",
+      "1537/E2",
+      "1537/E1",
+      "1537/D",
+      "1537/C",
+      "1537/B",
+      "1537/A"
+    ],
     "1538": [
       "1538/G",
       "1538/F",
@@ -85925,6 +86093,14 @@
       "1538/C",
       "1538/B",
       "1538/A"
+    ],
+    "1539": [
+      "1539/F",
+      "1539/E",
+      "1539/D",
+      "1539/C",
+      "1539/B",
+      "1539/A"
     ]
   }
 }
