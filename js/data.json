@@ -175,6 +175,7 @@
     ],
     "Div. 2": [
       1530,
+      1543,
       1542,
       1541,
       1539,
@@ -1481,6 +1482,86 @@
     ]
   },
   "problems": {
+    "1541/B": {
+      "contestId": 1541,
+      "index": "B",
+      "name": "Pleasant Pairs",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1541/B"
+    },
+    "1541/A": {
+      "contestId": 1541,
+      "index": "A",
+      "name": "Pretty Permutations",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1541/A"
+    },
+    "1540/E": {
+      "contestId": 1540,
+      "index": "E",
+      "name": "Tasty Dishes",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1540/E"
+    },
+    "1540/D": {
+      "contestId": 1540,
+      "index": "D",
+      "name": "Inverse Inversions",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1540/D"
+    },
+    "1540/C2": {
+      "contestId": 1540,
+      "index": "C2",
+      "name": "Converging Array (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1540/C2"
+    },
+    "1540/C1": {
+      "contestId": 1540,
+      "index": "C1",
+      "name": "Converging Array (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1540/C1"
+    },
+    "1540/B": {
+      "contestId": 1540,
+      "index": "B",
+      "name": "Tree Array",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1540/B"
+    },
+    "1540/A": {
+      "contestId": 1540,
+      "index": "A",
+      "name": "Great Graphs",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1540/A"
+    },
     "1539/F": {
       "contestId": 1539,
       "index": "F",
@@ -86101,6 +86182,18 @@
       "1539/C",
       "1539/B",
       "1539/A"
+    ],
+    "1540": [
+      "1540/E",
+      "1540/D",
+      "1540/C2",
+      "1540/C1",
+      "1540/B",
+      "1540/A"
+    ],
+    "1541": [
+      "1541/B",
+      "1541/A"
     ]
   }
 }
