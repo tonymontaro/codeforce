@@ -114,6 +114,7 @@
       598
     ],
     "Div. 3": [
+      1547,
       1538,
       1520,
       1512,
@@ -174,7 +175,9 @@
       977
     ],
     "Div. 2": [
+      1549,
       1530,
+      1546,
       1543,
       1542,
       1541,
@@ -828,6 +831,8 @@
       4
     ],
     "Div. 1": [
+      1548,
+      1545,
       1540,
       1528,
       1508,
@@ -1135,6 +1140,7 @@
       77
     ],
     "other": [
+      1544,
       1533,
       1532,
       1524,
@@ -1508,8 +1514,9 @@
       "name": "Tasty Dishes",
       "type": "PROGRAMMING",
       "points": 3500,
+      "rating": 3500,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1540/E"
     },
     "1540/D": {
@@ -1518,8 +1525,9 @@
       "name": "Inverse Inversions",
       "type": "PROGRAMMING",
       "points": 3000,
+      "rating": 3200,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1540/D"
     },
     "1540/C2": {
@@ -1528,8 +1536,9 @@
       "name": "Converging Array (Hard Version)",
       "type": "PROGRAMMING",
       "points": 750,
+      "rating": 2900,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1540/C2"
     },
     "1540/C1": {
@@ -1538,8 +1547,9 @@
       "name": "Converging Array (Easy Version)",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 2700,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1540/C1"
     },
     "1540/B": {
@@ -1548,8 +1558,9 @@
       "name": "Tree Array",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 2300,
       "tags": "",
-      "color": "#fff",
+      "color": "#ffbb55",
       "id": "1540/B"
     },
     "1540/A": {
@@ -1558,8 +1569,9 @@
       "name": "Great Graphs",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 1400,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1540/A"
     },
     "1539/F": {
@@ -1999,6 +2011,150 @@
       "tags": "",
       "color": "#ccc",
       "id": "1534/A"
+    },
+    "1533/J": {
+      "contestId": 1533,
+      "index": "J",
+      "name": "Pawns",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1533/J"
+    },
+    "1533/I": {
+      "contestId": 1533,
+      "index": "I",
+      "name": "Excursions",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1533/I"
+    },
+    "1533/H": {
+      "contestId": 1533,
+      "index": "H",
+      "name": "Submatrices",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1533/H"
+    },
+    "1533/G": {
+      "contestId": 1533,
+      "index": "G",
+      "name": "Biome Map",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1533/G"
+    },
+    "1533/F": {
+      "contestId": 1533,
+      "index": "F",
+      "name": "Binary String Partition",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1533/F"
+    },
+    "1533/E": {
+      "contestId": 1533,
+      "index": "E",
+      "name": "Chess Team Forming",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1533/E"
+    },
+    "1533/D": {
+      "contestId": 1533,
+      "index": "D",
+      "name": "String Searching",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1533/D"
+    },
+    "1533/C": {
+      "contestId": 1533,
+      "index": "C",
+      "name": "Sweets",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1533/C"
+    },
+    "1533/B": {
+      "contestId": 1533,
+      "index": "B",
+      "name": "Nearest Point Function",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1533/B"
+    },
+    "1533/A": {
+      "contestId": 1533,
+      "index": "A",
+      "name": "Travel to Bertown",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1533/A"
+    },
+    "1532/F": {
+      "contestId": 1532,
+      "index": "F",
+      "name": "Prefixes and Suffixes",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1532/F"
+    },
+    "1532/E": {
+      "contestId": 1532,
+      "index": "E",
+      "name": "Good Array",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1532/E"
+    },
+    "1532/D": {
+      "contestId": 1532,
+      "index": "D",
+      "name": "Teams Forming",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1532/D"
+    },
+    "1532/C": {
+      "contestId": 1532,
+      "index": "C",
+      "name": "Uniform String",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1532/C"
+    },
+    "1532/B": {
+      "contestId": 1532,
+      "index": "B",
+      "name": "Frog Jumping",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1532/B"
+    },
+    "1532/A": {
+      "contestId": 1532,
+      "index": "A",
+      "name": "A+B (Trial Problem)",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1532/A"
     },
     "1531/E3": {
       "contestId": 1531,
@@ -86129,6 +86285,26 @@
       "1531/B2",
       "1531/B1",
       "1531/A"
+    ],
+    "1532": [
+      "1532/F",
+      "1532/E",
+      "1532/D",
+      "1532/C",
+      "1532/B",
+      "1532/A"
+    ],
+    "1533": [
+      "1533/J",
+      "1533/I",
+      "1533/H",
+      "1533/G",
+      "1533/F",
+      "1533/E",
+      "1533/D",
+      "1533/C",
+      "1533/B",
+      "1533/A"
     ],
     "1534": [
       "1534/H",
