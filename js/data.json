@@ -1488,6 +1488,66 @@
     ]
   },
   "problems": {
+    "1542/E2": {
+      "contestId": 1542,
+      "index": "E2",
+      "name": "Abnormal Permutation Pairs (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1542/E2"
+    },
+    "1542/E1": {
+      "contestId": 1542,
+      "index": "E1",
+      "name": "Abnormal Permutation Pairs (easy version)",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1542/E1"
+    },
+    "1542/D": {
+      "contestId": 1542,
+      "index": "D",
+      "name": "Priority Queue",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1542/D"
+    },
+    "1542/C": {
+      "contestId": 1542,
+      "index": "C",
+      "name": "Strange Function",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1542/C"
+    },
+    "1542/B": {
+      "contestId": 1542,
+      "index": "B",
+      "name": "Plus and Multiply",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1542/B"
+    },
+    "1542/A": {
+      "contestId": 1542,
+      "index": "A",
+      "name": "Odd Set",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1542/A"
+    },
     "1541/B": {
       "contestId": 1541,
       "index": "B",
@@ -86370,6 +86430,14 @@
     "1541": [
       "1541/B",
       "1541/A"
+    ],
+    "1542": [
+      "1542/E2",
+      "1542/E1",
+      "1542/D",
+      "1542/C",
+      "1542/B",
+      "1542/A"
     ]
   }
 }
