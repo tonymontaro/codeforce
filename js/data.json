@@ -1,6 +1,7 @@
 {
   "groups": {
     "Educational": [
+      1550,
       1535,
       1525,
       1519,
@@ -114,6 +115,7 @@
       598
     ],
     "Div. 3": [
+      1551,
       1547,
       1538,
       1520,
@@ -1488,14 +1490,250 @@
     ]
   },
   "problems": {
+    "1547/G": {
+      "contestId": 1547,
+      "index": "G",
+      "name": "How Many Paths?",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1547/G"
+    },
+    "1547/F": {
+      "contestId": 1547,
+      "index": "F",
+      "name": "Array Stabilization (GCD version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1547/F"
+    },
+    "1547/E": {
+      "contestId": 1547,
+      "index": "E",
+      "name": "Air Conditioners",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1547/E"
+    },
+    "1547/D": {
+      "contestId": 1547,
+      "index": "D",
+      "name": "Co-growing Sequence",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1547/D"
+    },
+    "1547/C": {
+      "contestId": 1547,
+      "index": "C",
+      "name": "Pair Programming",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1547/C"
+    },
+    "1547/B": {
+      "contestId": 1547,
+      "index": "B",
+      "name": "Alphabetical Strings",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1547/B"
+    },
+    "1547/A": {
+      "contestId": 1547,
+      "index": "A",
+      "name": "Shortest Path with Obstacle",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1547/A"
+    },
+    "1546/B": {
+      "contestId": 1546,
+      "index": "B",
+      "name": "AquaMoon and Stolen String",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1546/B"
+    },
+    "1546/A": {
+      "contestId": 1546,
+      "index": "A",
+      "name": "AquaMoon and Two Arrays",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1546/A"
+    },
+    "1545/F": {
+      "contestId": 1545,
+      "index": "F",
+      "name": "AquaMoon and Potatoes",
+      "type": "PROGRAMMING",
+      "points": 4000,
+      "rating": 3500,
+      "tags": "",
+      "color": "#f33",
+      "id": "1545/F"
+    },
+    "1545/E2": {
+      "contestId": 1545,
+      "index": "E2",
+      "name": "AquaMoon and Time Stop (hard version)",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 3500,
+      "tags": "",
+      "color": "#f33",
+      "id": "1545/E2"
+    },
+    "1545/E1": {
+      "contestId": 1545,
+      "index": "E1",
+      "name": "AquaMoon and Time Stop (easy version)",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 3500,
+      "tags": "",
+      "color": "#f33",
+      "id": "1545/E1"
+    },
+    "1545/D": {
+      "contestId": 1545,
+      "index": "D",
+      "name": "AquaMoon and Wrong Coordinate",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "rating": 3000,
+      "tags": "",
+      "color": "#f33",
+      "id": "1545/D"
+    },
+    "1545/C": {
+      "contestId": 1545,
+      "index": "C",
+      "name": "AquaMoon and Permutations",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 2800,
+      "tags": "",
+      "color": "#f33",
+      "id": "1545/C"
+    },
+    "1545/B": {
+      "contestId": 1545,
+      "index": "B",
+      "name": "AquaMoon and Chess",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1900,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1545/B"
+    },
+    "1545/A": {
+      "contestId": 1545,
+      "index": "A",
+      "name": "AquaMoon and Strange Sort",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 1500,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1545/A"
+    },
+    "1543/E": {
+      "contestId": 1543,
+      "index": "E",
+      "name": "The Final Pursuit",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 2700,
+      "tags": "",
+      "color": "#f33",
+      "id": "1543/E"
+    },
+    "1543/D2": {
+      "contestId": 1543,
+      "index": "D2",
+      "name": "RPD and Rap Sheet (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1543/D2"
+    },
+    "1543/D1": {
+      "contestId": 1543,
+      "index": "D1",
+      "name": "RPD and Rap Sheet (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1543/D1"
+    },
+    "1543/C": {
+      "contestId": 1543,
+      "index": "C",
+      "name": "Need for Pink Slips",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1900,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1543/C"
+    },
+    "1543/B": {
+      "contestId": 1543,
+      "index": "B",
+      "name": "Customising the Track",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1543/B"
+    },
+    "1543/A": {
+      "contestId": 1543,
+      "index": "A",
+      "name": "Exciting Bets",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1543/A"
+    },
     "1542/E2": {
       "contestId": 1542,
       "index": "E2",
       "name": "Abnormal Permutation Pairs (hard version)",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 2700,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1542/E2"
     },
     "1542/E1": {
@@ -1504,8 +1742,9 @@
       "name": "Abnormal Permutation Pairs (easy version)",
       "type": "PROGRAMMING",
       "points": 2000,
+      "rating": 2400,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1542/E1"
     },
     "1542/D": {
@@ -1514,8 +1753,9 @@
       "name": "Priority Queue",
       "type": "PROGRAMMING",
       "points": 2000,
+      "rating": 2200,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1542/D"
     },
     "1542/C": {
@@ -1524,8 +1764,9 @@
       "name": "Strange Function",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 1600,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1542/C"
     },
     "1542/B": {
@@ -1534,8 +1775,9 @@
       "name": "Plus and Multiply",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 1500,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1542/B"
     },
     "1542/A": {
@@ -1544,8 +1786,9 @@
       "name": "Odd Set",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1542/A"
     },
     "1541/B": {
@@ -1554,8 +1797,9 @@
       "name": "Pleasant Pairs",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 1200,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1541/B"
     },
     "1541/A": {
@@ -1564,8 +1808,9 @@
       "name": "Pretty Permutations",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1541/A"
     },
     "1540/E": {
@@ -86438,6 +86683,36 @@
       "1542/C",
       "1542/B",
       "1542/A"
+    ],
+    "1543": [
+      "1543/E",
+      "1543/D2",
+      "1543/D1",
+      "1543/C",
+      "1543/B",
+      "1543/A"
+    ],
+    "1545": [
+      "1545/F",
+      "1545/E2",
+      "1545/E1",
+      "1545/D",
+      "1545/C",
+      "1545/B",
+      "1545/A"
+    ],
+    "1546": [
+      "1546/B",
+      "1546/A"
+    ],
+    "1547": [
+      "1547/G",
+      "1547/F",
+      "1547/E",
+      "1547/D",
+      "1547/C",
+      "1547/B",
+      "1547/A"
     ]
   }
 }
