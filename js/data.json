@@ -1142,6 +1142,7 @@
       77
     ],
     "other": [
+      1552,
       1544,
       1533,
       1532,
@@ -1490,6 +1491,66 @@
     ]
   },
   "problems": {
+    "1550/F": {
+      "contestId": 1550,
+      "index": "F",
+      "name": "Jumping Around",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": "",
+      "color": "#f33",
+      "id": "1550/F"
+    },
+    "1550/E": {
+      "contestId": 1550,
+      "index": "E",
+      "name": "Stringforces",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": "",
+      "color": "#f77",
+      "id": "1550/E"
+    },
+    "1550/D": {
+      "contestId": 1550,
+      "index": "D",
+      "name": "Excellent Arrays",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": "",
+      "color": "#ffbb55",
+      "id": "1550/D"
+    },
+    "1550/C": {
+      "contestId": 1550,
+      "index": "C",
+      "name": "Manhattan Subarrays",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1550/C"
+    },
+    "1550/B": {
+      "contestId": 1550,
+      "index": "B",
+      "name": "Maximum Cost Deletion",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1550/B"
+    },
+    "1550/A": {
+      "contestId": 1550,
+      "index": "A",
+      "name": "Find The Array",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1550/A"
+    },
     "1547/G": {
       "contestId": 1547,
       "index": "G",
@@ -86713,6 +86774,14 @@
       "1547/C",
       "1547/B",
       "1547/A"
+    ],
+    "1550": [
+      "1550/F",
+      "1550/E",
+      "1550/D",
+      "1550/C",
+      "1550/B",
+      "1550/A"
     ]
   }
 }
