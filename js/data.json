@@ -178,6 +178,8 @@
     ],
     "Div. 2": [
       1549,
+      1554,
+      1553,
       1530,
       1546,
       1543,
@@ -1491,6 +1493,168 @@
     ]
   },
   "problems": {
+    "1553/I": {
+      "contestId": 1553,
+      "index": "I",
+      "name": "Stairs",
+      "type": "PROGRAMMING",
+      "points": 5250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1553/I"
+    },
+    "1553/H": {
+      "contestId": 1553,
+      "index": "H",
+      "name": "XOR and Distance",
+      "type": "PROGRAMMING",
+      "points": 3750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1553/H"
+    },
+    "1553/G": {
+      "contestId": 1553,
+      "index": "G",
+      "name": "Common Divisor Graph",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1553/G"
+    },
+    "1553/F": {
+      "contestId": 1553,
+      "index": "F",
+      "name": "Pairwise Modulo",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1553/F"
+    },
+    "1553/E": {
+      "contestId": 1553,
+      "index": "E",
+      "name": "Permutation Shift",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1553/E"
+    },
+    "1553/D": {
+      "contestId": 1553,
+      "index": "D",
+      "name": "Backspace",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1553/D"
+    },
+    "1553/C": {
+      "contestId": 1553,
+      "index": "C",
+      "name": "Penalty",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1553/C"
+    },
+    "1553/B": {
+      "contestId": 1553,
+      "index": "B",
+      "name": "Reverse String",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1553/B"
+    },
+    "1553/A": {
+      "contestId": 1553,
+      "index": "A",
+      "name": "Digits Sum",
+      "type": "PROGRAMMING",
+      "points": 250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1553/A"
+    },
+    "1551/F": {
+      "contestId": 1551,
+      "index": "F",
+      "name": "Equidistant Vertices",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1551/F"
+    },
+    "1551/E": {
+      "contestId": 1551,
+      "index": "E",
+      "name": "Fixed Points",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1551/E"
+    },
+    "1551/D2": {
+      "contestId": 1551,
+      "index": "D2",
+      "name": "Domino (hard version)",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1551/D2"
+    },
+    "1551/D1": {
+      "contestId": 1551,
+      "index": "D1",
+      "name": "Domino (easy version)",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1551/D1"
+    },
+    "1551/C": {
+      "contestId": 1551,
+      "index": "C",
+      "name": "Interesting Story",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1551/C"
+    },
+    "1551/B2": {
+      "contestId": 1551,
+      "index": "B2",
+      "name": "Wonderful Coloring - 2",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1551/B2"
+    },
+    "1551/B1": {
+      "contestId": 1551,
+      "index": "B1",
+      "name": "Wonderful Coloring - 1",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1551/B1"
+    },
+    "1551/A": {
+      "contestId": 1551,
+      "index": "A",
+      "name": "Polycarp and Coins",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1551/A"
+    },
     "1550/F": {
       "contestId": 1550,
       "index": "F",
@@ -2593,6 +2757,94 @@
       "tags": "",
       "color": "#fff",
       "id": "1531/A"
+    },
+    "1530/H": {
+      "contestId": 1530,
+      "index": "H",
+      "name": "Turing's Award",
+      "type": "PROGRAMMING",
+      "points": 4750,
+      "rating": 3400,
+      "tags": "",
+      "color": "#f33",
+      "id": "1530/H"
+    },
+    "1530/G": {
+      "contestId": 1530,
+      "index": "G",
+      "name": "What a Reversal",
+      "type": "PROGRAMMING",
+      "points": 3750,
+      "rating": 3300,
+      "tags": "",
+      "color": "#f33",
+      "id": "1530/G"
+    },
+    "1530/F": {
+      "contestId": 1530,
+      "index": "F",
+      "name": "Bingo",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1530/F"
+    },
+    "1530/E": {
+      "contestId": 1530,
+      "index": "E",
+      "name": "Minimax",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2100,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1530/E"
+    },
+    "1530/D": {
+      "contestId": 1530,
+      "index": "D",
+      "name": "Secret Santa",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1530/D"
+    },
+    "1530/C": {
+      "contestId": 1530,
+      "index": "C",
+      "name": "Pursuit",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1530/C"
+    },
+    "1530/B": {
+      "contestId": 1530,
+      "index": "B",
+      "name": "Putting Plates",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1530/B"
+    },
+    "1530/A": {
+      "contestId": 1530,
+      "index": "A",
+      "name": "Binary Decimal",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1530/A"
     },
     "1529/B": {
       "contestId": 1529,
@@ -86642,6 +86894,16 @@
       "1529/B",
       "1529/A"
     ],
+    "1530": [
+      "1530/H",
+      "1530/G",
+      "1530/F",
+      "1530/E",
+      "1530/D",
+      "1530/C",
+      "1530/B",
+      "1530/A"
+    ],
     "1531": [
       "1531/E3",
       "1531/E2",
@@ -86782,6 +87044,27 @@
       "1550/C",
       "1550/B",
       "1550/A"
+    ],
+    "1551": [
+      "1551/F",
+      "1551/E",
+      "1551/D2",
+      "1551/D1",
+      "1551/C",
+      "1551/B2",
+      "1551/B1",
+      "1551/A"
+    ],
+    "1553": [
+      "1553/I",
+      "1553/H",
+      "1553/G",
+      "1553/F",
+      "1553/E",
+      "1553/D",
+      "1553/C",
+      "1553/B",
+      "1553/A"
     ]
   }
 }
