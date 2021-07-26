@@ -1,6 +1,7 @@
 {
   "groups": {
     "Educational": [
+      1555,
       1550,
       1535,
       1525,
@@ -1499,8 +1500,9 @@
       "name": "Stairs",
       "type": "PROGRAMMING",
       "points": 5250,
+      "rating": 3400,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1553/I"
     },
     "1553/H": {
@@ -1509,8 +1511,9 @@
       "name": "XOR and Distance",
       "type": "PROGRAMMING",
       "points": 3750,
+      "rating": 2900,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1553/H"
     },
     "1553/G": {
@@ -1519,8 +1522,9 @@
       "name": "Common Divisor Graph",
       "type": "PROGRAMMING",
       "points": 3000,
+      "rating": 2700,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1553/G"
     },
     "1553/F": {
@@ -1529,8 +1533,9 @@
       "name": "Pairwise Modulo",
       "type": "PROGRAMMING",
       "points": 2500,
+      "rating": 2300,
       "tags": "",
-      "color": "#fff",
+      "color": "#ffbb55",
       "id": "1553/F"
     },
     "1553/E": {
@@ -1539,8 +1544,9 @@
       "name": "Permutation Shift",
       "type": "PROGRAMMING",
       "points": 1750,
+      "rating": 2100,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1553/E"
     },
     "1553/D": {
@@ -1549,8 +1555,9 @@
       "name": "Backspace",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 1500,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1553/D"
     },
     "1553/C": {
@@ -1559,8 +1566,9 @@
       "name": "Penalty",
       "type": "PROGRAMMING",
       "points": 750,
+      "rating": 1200,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1553/C"
     },
     "1553/B": {
@@ -1569,8 +1577,9 @@
       "name": "Reverse String",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 1300,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1553/B"
     },
     "1553/A": {
@@ -1579,17 +1588,109 @@
       "name": "Digits Sum",
       "type": "PROGRAMMING",
       "points": 250,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1553/A"
+    },
+    "1552/I": {
+      "contestId": 1552,
+      "index": "I",
+      "name": "Organizing a Music Festival",
+      "type": "PROGRAMMING",
+      "points": 3750,
       "tags": "",
       "color": "#fff",
-      "id": "1553/A"
+      "id": "1552/I"
+    },
+    "1552/H": {
+      "contestId": 1552,
+      "index": "H",
+      "name": "Guess the Perimeter",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1552/H"
+    },
+    "1552/G": {
+      "contestId": 1552,
+      "index": "G",
+      "name": "A Serious Referee",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1552/G"
+    },
+    "1552/F": {
+      "contestId": 1552,
+      "index": "F",
+      "name": "Telepanting",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1552/F"
+    },
+    "1552/E": {
+      "contestId": 1552,
+      "index": "E",
+      "name": "Colors and Intervals",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1552/E"
+    },
+    "1552/D": {
+      "contestId": 1552,
+      "index": "D",
+      "name": "Array Differentiation",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1552/D"
+    },
+    "1552/C": {
+      "contestId": 1552,
+      "index": "C",
+      "name": "Maximize the Intersections",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1552/C"
+    },
+    "1552/B": {
+      "contestId": 1552,
+      "index": "B",
+      "name": "Running for Gold",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1552/B"
+    },
+    "1552/A": {
+      "contestId": 1552,
+      "index": "A",
+      "name": "Subsequence Permutation",
+      "type": "PROGRAMMING",
+      "points": 250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1552/A"
     },
     "1551/F": {
       "contestId": 1551,
       "index": "F",
       "name": "Equidistant Vertices",
       "type": "PROGRAMMING",
+      "rating": 2200,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1551/F"
     },
     "1551/E": {
@@ -1597,8 +1698,9 @@
       "index": "E",
       "name": "Fixed Points",
       "type": "PROGRAMMING",
+      "rating": 2000,
       "tags": "",
-      "color": "#fff",
+      "color": "#f988ff",
       "id": "1551/E"
     },
     "1551/D2": {
@@ -1606,8 +1708,9 @@
       "index": "D2",
       "name": "Domino (hard version)",
       "type": "PROGRAMMING",
+      "rating": 2100,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1551/D2"
     },
     "1551/D1": {
@@ -1615,8 +1718,9 @@
       "index": "D1",
       "name": "Domino (easy version)",
       "type": "PROGRAMMING",
+      "rating": 1700,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1551/D1"
     },
     "1551/C": {
@@ -1624,8 +1728,9 @@
       "index": "C",
       "name": "Interesting Story",
       "type": "PROGRAMMING",
+      "rating": 1500,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1551/C"
     },
     "1551/B2": {
@@ -1633,8 +1738,9 @@
       "index": "B2",
       "name": "Wonderful Coloring - 2",
       "type": "PROGRAMMING",
+      "rating": 1400,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1551/B2"
     },
     "1551/B1": {
@@ -1642,8 +1748,9 @@
       "index": "B1",
       "name": "Wonderful Coloring - 1",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1551/B1"
     },
     "1551/A": {
@@ -1651,8 +1758,9 @@
       "index": "A",
       "name": "Polycarp and Coins",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1551/A"
     },
     "1550/F": {
@@ -87054,6 +87162,17 @@
       "1551/B2",
       "1551/B1",
       "1551/A"
+    ],
+    "1552": [
+      "1552/I",
+      "1552/H",
+      "1552/G",
+      "1552/F",
+      "1552/E",
+      "1552/D",
+      "1552/C",
+      "1552/B",
+      "1552/A"
     ],
     "1553": [
       "1553/I",
