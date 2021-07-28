@@ -178,6 +178,7 @@
       977
     ],
     "Div. 2": [
+      1556,
       1549,
       1554,
       1553,
@@ -1599,8 +1600,9 @@
       "name": "Organizing a Music Festival",
       "type": "PROGRAMMING",
       "points": 3750,
+      "rating": 3400,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1552/I"
     },
     "1552/H": {
@@ -1609,8 +1611,9 @@
       "name": "Guess the Perimeter",
       "type": "PROGRAMMING",
       "points": 2750,
+      "rating": 3300,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1552/H"
     },
     "1552/G": {
@@ -1619,8 +1622,9 @@
       "name": "A Serious Referee",
       "type": "PROGRAMMING",
       "points": 2500,
+      "rating": 3000,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1552/G"
     },
     "1552/F": {
@@ -1629,8 +1633,9 @@
       "name": "Telepanting",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 2200,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1552/F"
     },
     "1552/E": {
@@ -1639,8 +1644,9 @@
       "name": "Colors and Intervals",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 2300,
       "tags": "",
-      "color": "#fff",
+      "color": "#ffbb55",
       "id": "1552/E"
     },
     "1552/D": {
@@ -1649,8 +1655,9 @@
       "name": "Array Differentiation",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 1800,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1552/D"
     },
     "1552/C": {
@@ -1659,8 +1666,9 @@
       "name": "Maximize the Intersections",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 1800,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1552/C"
     },
     "1552/B": {
@@ -1669,8 +1677,9 @@
       "name": "Running for Gold",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 1500,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1552/B"
     },
     "1552/A": {
@@ -1679,8 +1688,9 @@
       "name": "Subsequence Permutation",
       "type": "PROGRAMMING",
       "points": 250,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1552/A"
     },
     "1551/F": {
