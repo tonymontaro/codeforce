@@ -116,6 +116,7 @@
       598
     ],
     "Div. 3": [
+      1560,
       1551,
       1547,
       1538,
@@ -180,6 +181,7 @@
     "Div. 2": [
       1556,
       1558,
+      1559,
       1557,
       1549,
       1554,
@@ -1497,6 +1499,61 @@
     ]
   },
   "problems": {
+    "1557/E": {
+      "contestId": 1557,
+      "index": "E",
+      "name": "Assiut Chess",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 2800,
+      "tags": "",
+      "color": "#f33",
+      "id": "1557/E"
+    },
+    "1557/D": {
+      "contestId": 1557,
+      "index": "D",
+      "name": "Ezzat and Grid",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1557/D"
+    },
+    "1557/C": {
+      "contestId": 1557,
+      "index": "C",
+      "name": "Moamen and XOR",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1557/C"
+    },
+    "1557/B": {
+      "contestId": 1557,
+      "index": "B",
+      "name": "Moamen and k-subarrays",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1557/B"
+    },
+    "1557/A": {
+      "contestId": 1557,
+      "index": "A",
+      "name": "Ezzat and Two Subsequences",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1557/A"
+    },
     "1555/F": {
       "contestId": 1555,
       "index": "F",
@@ -87424,6 +87481,13 @@
       "1555/C",
       "1555/B",
       "1555/A"
+    ],
+    "1557": [
+      "1557/E",
+      "1557/D",
+      "1557/C",
+      "1557/B",
+      "1557/A"
     ]
   }
 }
