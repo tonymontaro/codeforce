@@ -1499,6 +1499,66 @@
     ]
   },
   "problems": {
+    "1559/E": {
+      "contestId": 1559,
+      "index": "E",
+      "name": "Mocha and Stars",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1559/E"
+    },
+    "1559/D2": {
+      "contestId": 1559,
+      "index": "D2",
+      "name": "Mocha and Diana (Hard Version)",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1559/D2"
+    },
+    "1559/D1": {
+      "contestId": 1559,
+      "index": "D1",
+      "name": "Mocha and Diana (Easy Version)",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1559/D1"
+    },
+    "1559/C": {
+      "contestId": 1559,
+      "index": "C",
+      "name": "Mocha and Hiking",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1559/C"
+    },
+    "1559/B": {
+      "contestId": 1559,
+      "index": "B",
+      "name": "Mocha and Red and Blue",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1559/B"
+    },
+    "1559/A": {
+      "contestId": 1559,
+      "index": "A",
+      "name": "Mocha and Math",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1559/A"
+    },
     "1557/E": {
       "contestId": 1557,
       "index": "E",
@@ -87488,6 +87548,14 @@
       "1557/C",
       "1557/B",
       "1557/A"
+    ],
+    "1559": [
+      "1559/E",
+      "1559/D2",
+      "1559/D1",
+      "1559/C",
+      "1559/B",
+      "1559/A"
     ]
   }
 }
