@@ -180,7 +180,8 @@
     ],
     "Div. 2": [
       1556,
-      1558,
+      1562,
+      1561,
       1559,
       1557,
       1549,
@@ -841,6 +842,7 @@
       4
     ],
     "Div. 1": [
+      1558,
       1548,
       1545,
       1540,
@@ -1499,14 +1501,85 @@
     ]
   },
   "problems": {
+    "1560/F2": {
+      "contestId": 1560,
+      "index": "F2",
+      "name": "Nearest Beautiful Number (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1560/F2"
+    },
+    "1560/F1": {
+      "contestId": 1560,
+      "index": "F1",
+      "name": "Nearest Beautiful Number (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1560/F1"
+    },
+    "1560/E": {
+      "contestId": 1560,
+      "index": "E",
+      "name": "Polycarp and String Transformation",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1560/E"
+    },
+    "1560/D": {
+      "contestId": 1560,
+      "index": "D",
+      "name": "Make a Power of Two",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1560/D"
+    },
+    "1560/C": {
+      "contestId": 1560,
+      "index": "C",
+      "name": "Infinity Table",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1560/C"
+    },
+    "1560/B": {
+      "contestId": 1560,
+      "index": "B",
+      "name": "Who's Opposite?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1560/B"
+    },
+    "1560/A": {
+      "contestId": 1560,
+      "index": "A",
+      "name": "Dislike of Threes",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1560/A"
+    },
     "1559/E": {
       "contestId": 1559,
       "index": "E",
       "name": "Mocha and Stars",
       "type": "PROGRAMMING",
       "points": 3000,
+      "rating": 2200,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1559/E"
     },
     "1559/D2": {
@@ -1515,8 +1588,9 @@
       "name": "Mocha and Diana (Hard Version)",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 2500,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1559/D2"
     },
     "1559/D1": {
@@ -1525,8 +1599,9 @@
       "name": "Mocha and Diana (Easy Version)",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 1400,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1559/D1"
     },
     "1559/C": {
@@ -1535,8 +1610,9 @@
       "name": "Mocha and Hiking",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 1200,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1559/C"
     },
     "1559/B": {
@@ -1545,8 +1621,9 @@
       "name": "Mocha and Red and Blue",
       "type": "PROGRAMMING",
       "points": 750,
+      "rating": 900,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1559/B"
     },
     "1559/A": {
@@ -1555,8 +1632,9 @@
       "name": "Mocha and Math",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 900,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1559/A"
     },
     "1557/E": {
@@ -2073,8 +2151,9 @@
       "name": "Gregor and the Pawn Game",
       "type": "PROGRAMMING",
       "points": 750,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1549/B"
     },
     "1549/A": {
@@ -2083,8 +2162,9 @@
       "name": "Gregor and Cryptography",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1549/A"
     },
     "1548/E": {
@@ -87556,6 +87636,15 @@
       "1559/C",
       "1559/B",
       "1559/A"
+    ],
+    "1560": [
+      "1560/F2",
+      "1560/F1",
+      "1560/E",
+      "1560/D",
+      "1560/C",
+      "1560/B",
+      "1560/A"
     ]
   }
 }
