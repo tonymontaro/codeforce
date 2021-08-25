@@ -179,6 +179,7 @@
       977
     ],
     "Div. 2": [
+      1567,
       1556,
       1562,
       1561,
@@ -1153,6 +1154,7 @@
     ],
     "other": [
       1566,
+      1563,
       1552,
       1544,
       1533,
@@ -1502,6 +1504,36 @@
     ]
   },
   "problems": {
+    "1561/D1": {
+      "contestId": 1561,
+      "index": "D1",
+      "name": "Up the Strip (simplified version)",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1561/D1"
+    },
+    "1561/C": {
+      "contestId": 1561,
+      "index": "C",
+      "name": "Deep Down Below",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1561/C"
+    },
+    "1561/A": {
+      "contestId": 1561,
+      "index": "A",
+      "name": "Simply Strange Sort",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1561/A"
+    },
     "1560/F2": {
       "contestId": 1560,
       "index": "F2",
@@ -1637,6 +1669,66 @@
       "tags": "",
       "color": "#ccc",
       "id": "1559/A"
+    },
+    "1558/F": {
+      "contestId": 1558,
+      "index": "F",
+      "name": "Strange Sort",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1558/F"
+    },
+    "1558/E": {
+      "contestId": 1558,
+      "index": "E",
+      "name": "Down Below",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1558/E"
+    },
+    "1558/D": {
+      "contestId": 1558,
+      "index": "D",
+      "name": "Top-Notch Insertions",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1558/D"
+    },
+    "1558/C": {
+      "contestId": 1558,
+      "index": "C",
+      "name": "Bottom-Tier Reversals",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1558/C"
+    },
+    "1558/B": {
+      "contestId": 1558,
+      "index": "B",
+      "name": "Up the Strip",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1558/B"
+    },
+    "1558/A": {
+      "contestId": 1558,
+      "index": "A",
+      "name": "Charmed by the Game",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1558/A"
     },
     "1557/E": {
       "contestId": 1557,
@@ -87630,6 +87722,14 @@
       "1557/B",
       "1557/A"
     ],
+    "1558": [
+      "1558/F",
+      "1558/E",
+      "1558/D",
+      "1558/C",
+      "1558/B",
+      "1558/A"
+    ],
     "1559": [
       "1559/E",
       "1559/D2",
@@ -87646,6 +87746,11 @@
       "1560/C",
       "1560/B",
       "1560/A"
+    ],
+    "1561": [
+      "1561/D1",
+      "1561/C",
+      "1561/A"
     ]
   }
 }
