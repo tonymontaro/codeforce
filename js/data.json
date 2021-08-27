@@ -1504,14 +1504,85 @@
     ]
   },
   "problems": {
+    "1562/F": {
+      "contestId": 1562,
+      "index": "F",
+      "name": "Tubular Bells",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1562/F"
+    },
+    "1562/E": {
+      "contestId": 1562,
+      "index": "E",
+      "name": "Rescue Niwen!",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1562/E"
+    },
+    "1562/D2": {
+      "contestId": 1562,
+      "index": "D2",
+      "name": "Two Hundred Twenty One (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1562/D2"
+    },
+    "1562/D1": {
+      "contestId": 1562,
+      "index": "D1",
+      "name": "Two Hundred Twenty One (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1562/D1"
+    },
+    "1562/C": {
+      "contestId": 1562,
+      "index": "C",
+      "name": "Rings",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1562/C"
+    },
+    "1562/B": {
+      "contestId": 1562,
+      "index": "B",
+      "name": "Scenes From a Memory",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1562/B"
+    },
+    "1562/A": {
+      "contestId": 1562,
+      "index": "A",
+      "name": "The Miracle and the Sleeper",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1562/A"
+    },
     "1561/D1": {
       "contestId": 1561,
       "index": "D1",
       "name": "Up the Strip (simplified version)",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 1700,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1561/D1"
     },
     "1561/C": {
@@ -1520,8 +1591,9 @@
       "name": "Deep Down Below",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 1300,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1561/C"
     },
     "1561/A": {
@@ -1530,8 +1602,9 @@
       "name": "Simply Strange Sort",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1561/A"
     },
     "1560/F2": {
@@ -1676,8 +1749,9 @@
       "name": "Strange Sort",
       "type": "PROGRAMMING",
       "points": 3500,
+      "rating": 3300,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1558/F"
     },
     "1558/E": {
@@ -1686,8 +1760,9 @@
       "name": "Down Below",
       "type": "PROGRAMMING",
       "points": 3000,
+      "rating": 3000,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1558/E"
     },
     "1558/D": {
@@ -1696,8 +1771,9 @@
       "name": "Top-Notch Insertions",
       "type": "PROGRAMMING",
       "points": 2000,
+      "rating": 2600,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1558/D"
     },
     "1558/C": {
@@ -1706,8 +1782,9 @@
       "name": "Bottom-Tier Reversals",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 2000,
       "tags": "",
-      "color": "#fff",
+      "color": "#f988ff",
       "id": "1558/C"
     },
     "1558/B": {
@@ -1716,8 +1793,9 @@
       "name": "Up the Strip",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 1900,
       "tags": "",
-      "color": "#fff",
+      "color": "#f988ff",
       "id": "1558/B"
     },
     "1558/A": {
@@ -1726,8 +1804,9 @@
       "name": "Charmed by the Game",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 1300,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1558/A"
     },
     "1557/E": {
@@ -87751,6 +87830,15 @@
       "1561/D1",
       "1561/C",
       "1561/A"
+    ],
+    "1562": [
+      "1562/F",
+      "1562/E",
+      "1562/D2",
+      "1562/D1",
+      "1562/C",
+      "1562/B",
+      "1562/A"
     ]
   }
 }
