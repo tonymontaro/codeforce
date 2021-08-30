@@ -1510,8 +1510,9 @@
       "name": "Tubular Bells",
       "type": "PROGRAMMING",
       "points": 3500,
+      "rating": 2900,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1562/F"
     },
     "1562/E": {
@@ -1520,8 +1521,9 @@
       "name": "Rescue Niwen!",
       "type": "PROGRAMMING",
       "points": 2750,
+      "rating": 2500,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1562/E"
     },
     "1562/D2": {
@@ -1530,8 +1532,9 @@
       "name": "Two Hundred Twenty One (hard version)",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 2200,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1562/D2"
     },
     "1562/D1": {
@@ -1540,8 +1543,9 @@
       "name": "Two Hundred Twenty One (easy version)",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 1700,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1562/D1"
     },
     "1562/C": {
@@ -1550,8 +1554,9 @@
       "name": "Rings",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 1500,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1562/C"
     },
     "1562/B": {
@@ -1560,8 +1565,9 @@
       "name": "Scenes From a Memory",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 1000,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1562/B"
     },
     "1562/A": {
@@ -1570,8 +1576,9 @@
       "name": "The Miracle and the Sleeper",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1562/A"
     },
     "1561/D1": {
@@ -1863,6 +1870,94 @@
       "tags": "",
       "color": "#ccc",
       "id": "1557/A"
+    },
+    "1556/H": {
+      "contestId": 1556,
+      "index": "H",
+      "name": "DIY Tree",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "rating": 3300,
+      "tags": "",
+      "color": "#f33",
+      "id": "1556/H"
+    },
+    "1556/G": {
+      "contestId": 1556,
+      "index": "G",
+      "name": "Gates to Another World",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 3300,
+      "tags": "",
+      "color": "#f33",
+      "id": "1556/G"
+    },
+    "1556/F": {
+      "contestId": 1556,
+      "index": "F",
+      "name": "Sports Betting",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2500,
+      "tags": "",
+      "color": "#f77",
+      "id": "1556/F"
+    },
+    "1556/E": {
+      "contestId": 1556,
+      "index": "E",
+      "name": "Equilibrium",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1556/E"
+    },
+    "1556/D": {
+      "contestId": 1556,
+      "index": "D",
+      "name": "Take a Guess",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1556/D"
+    },
+    "1556/C": {
+      "contestId": 1556,
+      "index": "C",
+      "name": "Compressed Bracket Sequence",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1556/C"
+    },
+    "1556/B": {
+      "contestId": 1556,
+      "index": "B",
+      "name": "Take Your Places!",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1556/B"
+    },
+    "1556/A": {
+      "contestId": 1556,
+      "index": "A",
+      "name": "A Variety of Operations",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1556/A"
     },
     "1555/F": {
       "contestId": 1555,
@@ -87793,6 +87888,16 @@
       "1555/C",
       "1555/B",
       "1555/A"
+    ],
+    "1556": [
+      "1556/H",
+      "1556/G",
+      "1556/F",
+      "1556/E",
+      "1556/D",
+      "1556/C",
+      "1556/B",
+      "1556/A"
     ],
     "1557": [
       "1557/E",
