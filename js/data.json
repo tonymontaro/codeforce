@@ -1505,6 +1505,66 @@
     ]
   },
   "problems": {
+    "1567/F": {
+      "contestId": 1567,
+      "index": "F",
+      "name": "One-Four Overload",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1567/F"
+    },
+    "1567/E": {
+      "contestId": 1567,
+      "index": "E",
+      "name": "Non-Decreasing Dilemma",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "tags": "",
+      "color": "#fff",
+      "id": "1567/E"
+    },
+    "1567/D": {
+      "contestId": 1567,
+      "index": "D",
+      "name": "Expression Evaluation Error",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1567/D"
+    },
+    "1567/C": {
+      "contestId": 1567,
+      "index": "C",
+      "name": "Carrying Conundrum",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1567/C"
+    },
+    "1567/B": {
+      "contestId": 1567,
+      "index": "B",
+      "name": "MEXor Mixup",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1567/B"
+    },
+    "1567/A": {
+      "contestId": 1567,
+      "index": "A",
+      "name": "Domino Disaster",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1567/A"
+    },
     "1562/F": {
       "contestId": 1562,
       "index": "F",
@@ -87945,6 +88005,14 @@
       "1562/C",
       "1562/B",
       "1562/A"
+    ],
+    "1567": [
+      "1567/F",
+      "1567/E",
+      "1567/D",
+      "1567/C",
+      "1567/B",
+      "1567/A"
     ]
   }
 }
