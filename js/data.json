@@ -1,6 +1,7 @@
 {
   "groups": {
     "Educational": [
+      1574,
       1569,
       1555,
       1550,
@@ -117,6 +118,7 @@
       598
     ],
     "Div. 3": [
+      1579,
       1560,
       1551,
       1547,
@@ -180,6 +182,12 @@
       977
     ],
     "Div. 2": [
+      1591,
+      1589,
+      1582,
+      1587,
+      1581,
+      1573,
       1567,
       1556,
       1562,
@@ -844,6 +852,11 @@
       4
     ],
     "Div. 1": [
+      1590,
+      1588,
+      1586,
+      1580,
+      1572,
       1558,
       1548,
       1545,
@@ -1154,6 +1167,14 @@
       77
     ],
     "other": [
+      1585,
+      1584,
+      1583,
+      1576,
+      1571,
+      1575,
+      1570,
+      1578,
       1566,
       1563,
       1552,
@@ -1505,14 +1526,223 @@
     ]
   },
   "problems": {
+    "1574/F": {
+      "contestId": 1574,
+      "index": "F",
+      "name": "Occurrences",
+      "type": "PROGRAMMING",
+      "rating": 2700,
+      "tags": "",
+      "color": "#f33",
+      "id": "1574/F"
+    },
+    "1574/E": {
+      "contestId": 1574,
+      "index": "E",
+      "name": "Coloring",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": "",
+      "color": "#f77",
+      "id": "1574/E"
+    },
+    "1574/D": {
+      "contestId": 1574,
+      "index": "D",
+      "name": "The Strongest Build",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1574/D"
+    },
+    "1574/C": {
+      "contestId": 1574,
+      "index": "C",
+      "name": "Slay the Dragon",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1574/C"
+    },
+    "1574/B": {
+      "contestId": 1574,
+      "index": "B",
+      "name": "Combinatorics Homework",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1574/B"
+    },
+    "1574/A": {
+      "contestId": 1574,
+      "index": "A",
+      "name": "Regular Bracket Sequences",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1574/A"
+    },
+    "1573/B": {
+      "contestId": 1573,
+      "index": "B",
+      "name": "Swaps",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1400,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1573/B"
+    },
+    "1573/A": {
+      "contestId": 1573,
+      "index": "A",
+      "name": "Countdown",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1573/A"
+    },
+    "1572/F": {
+      "contestId": 1572,
+      "index": "F",
+      "name": "Stations",
+      "type": "PROGRAMMING",
+      "points": 3250,
+      "rating": 3400,
+      "tags": "",
+      "color": "#f33",
+      "id": "1572/F"
+    },
+    "1572/E": {
+      "contestId": 1572,
+      "index": "E",
+      "name": "Polygon",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 3000,
+      "tags": "",
+      "color": "#f33",
+      "id": "1572/E"
+    },
+    "1572/D": {
+      "contestId": 1572,
+      "index": "D",
+      "name": "Bridge Club",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2800,
+      "tags": "",
+      "color": "#f33",
+      "id": "1572/D"
+    },
+    "1572/C": {
+      "contestId": 1572,
+      "index": "C",
+      "name": "Paint",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "rating": 2700,
+      "tags": "",
+      "color": "#f33",
+      "id": "1572/C"
+    },
+    "1572/B": {
+      "contestId": 1572,
+      "index": "B",
+      "name": "Xor of 3",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "rating": 2500,
+      "tags": "",
+      "color": "#f77",
+      "id": "1572/B"
+    },
+    "1572/A": {
+      "contestId": 1572,
+      "index": "A",
+      "name": "Book",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1572/A"
+    },
+    "1569/F": {
+      "contestId": 1569,
+      "index": "F",
+      "name": "Palindromic Hamiltonian Path",
+      "type": "PROGRAMMING",
+      "rating": 3000,
+      "tags": "",
+      "color": "#f33",
+      "id": "1569/F"
+    },
+    "1569/E": {
+      "contestId": 1569,
+      "index": "E",
+      "name": "Playoff Restoration",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1569/E"
+    },
+    "1569/D": {
+      "contestId": 1569,
+      "index": "D",
+      "name": "Inconvenient Pairs",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1569/D"
+    },
+    "1569/C": {
+      "contestId": 1569,
+      "index": "C",
+      "name": "Jury Meeting",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1569/C"
+    },
+    "1569/B": {
+      "contestId": 1569,
+      "index": "B",
+      "name": "Chess Tournament",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1569/B"
+    },
+    "1569/A": {
+      "contestId": 1569,
+      "index": "A",
+      "name": "Balanced Substring",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1569/A"
+    },
     "1567/F": {
       "contestId": 1567,
       "index": "F",
       "name": "One-Four Overload",
       "type": "PROGRAMMING",
       "points": 2750,
+      "rating": 2700,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1567/F"
     },
     "1567/E": {
@@ -1521,8 +1751,9 @@
       "name": "Non-Decreasing Dilemma",
       "type": "PROGRAMMING",
       "points": 2250,
+      "rating": 2200,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1567/E"
     },
     "1567/D": {
@@ -1531,8 +1762,9 @@
       "name": "Expression Evaluation Error",
       "type": "PROGRAMMING",
       "points": 1750,
+      "rating": 2000,
       "tags": "",
-      "color": "#fff",
+      "color": "#f988ff",
       "id": "1567/D"
     },
     "1567/C": {
@@ -1541,8 +1773,9 @@
       "name": "Carrying Conundrum",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 1600,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1567/C"
     },
     "1567/B": {
@@ -1551,8 +1784,9 @@
       "name": "MEXor Mixup",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 1000,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1567/B"
     },
     "1567/A": {
@@ -1561,9 +1795,109 @@
       "name": "Domino Disaster",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1567/A"
+    },
+    "1566/H": {
+      "contestId": 1566,
+      "index": "H",
+      "name": "Xor-quiz",
+      "type": "PROGRAMMING",
+      "points": 3750,
+      "rating": 3200,
+      "tags": "",
+      "color": "#f33",
+      "id": "1566/H"
+    },
+    "1566/G": {
+      "contestId": 1566,
+      "index": "G",
+      "name": "Four Vertices",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 3100,
+      "tags": "",
+      "color": "#f33",
+      "id": "1566/G"
+    },
+    "1566/F": {
+      "contestId": 1566,
+      "index": "F",
+      "name": "Points Movement",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1566/F"
+    },
+    "1566/E": {
+      "contestId": 1566,
+      "index": "E",
+      "name": "Buds Re-hanging",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1566/E"
+    },
+    "1566/D2": {
+      "contestId": 1566,
+      "index": "D2",
+      "name": "Seating Arrangements (hard version) ",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1566/D2"
+    },
+    "1566/D1": {
+      "contestId": 1566,
+      "index": "D1",
+      "name": "Seating Arrangements (easy version) ",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1566/D1"
+    },
+    "1566/C": {
+      "contestId": 1566,
+      "index": "C",
+      "name": "MAX-MEX Cut",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1566/C"
+    },
+    "1566/B": {
+      "contestId": 1566,
+      "index": "B",
+      "name": "MIN-MEX Cut",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1566/B"
+    },
+    "1566/A": {
+      "contestId": 1566,
+      "index": "A",
+      "name": "Median Maximization",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1566/A"
     },
     "1562/F": {
       "contestId": 1562,
@@ -88006,6 +88340,17 @@
       "1562/B",
       "1562/A"
     ],
+    "1566": [
+      "1566/H",
+      "1566/G",
+      "1566/F",
+      "1566/E",
+      "1566/D2",
+      "1566/D1",
+      "1566/C",
+      "1566/B",
+      "1566/A"
+    ],
     "1567": [
       "1567/F",
       "1567/E",
@@ -88013,6 +88358,34 @@
       "1567/C",
       "1567/B",
       "1567/A"
+    ],
+    "1569": [
+      "1569/F",
+      "1569/E",
+      "1569/D",
+      "1569/C",
+      "1569/B",
+      "1569/A"
+    ],
+    "1572": [
+      "1572/F",
+      "1572/E",
+      "1572/D",
+      "1572/C",
+      "1572/B",
+      "1572/A"
+    ],
+    "1573": [
+      "1573/B",
+      "1573/A"
+    ],
+    "1574": [
+      "1574/F",
+      "1574/E",
+      "1574/D",
+      "1574/C",
+      "1574/B",
+      "1574/A"
     ]
   }
 }
