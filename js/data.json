@@ -118,6 +118,7 @@
       598
     ],
     "Div. 3": [
+      1593,
       1579,
       1560,
       1551,
@@ -186,6 +187,7 @@
       1589,
       1582,
       1587,
+      1594,
       1592,
       1581,
       1573,
@@ -1527,6 +1529,86 @@
     ]
   },
   "problems": {
+    "1579/G": {
+      "contestId": 1579,
+      "index": "G",
+      "name": "Minimal Coverage",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1579/G"
+    },
+    "1579/F": {
+      "contestId": 1579,
+      "index": "F",
+      "name": "Array Stabilization (AND version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1579/F"
+    },
+    "1579/E2": {
+      "contestId": 1579,
+      "index": "E2",
+      "name": "Array Optimization by Deque",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1579/E2"
+    },
+    "1579/E1": {
+      "contestId": 1579,
+      "index": "E1",
+      "name": "Permutation Minimization by Deque",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1579/E1"
+    },
+    "1579/D": {
+      "contestId": 1579,
+      "index": "D",
+      "name": "Productive Meeting",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1579/D"
+    },
+    "1579/C": {
+      "contestId": 1579,
+      "index": "C",
+      "name": "Ticks",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1579/C"
+    },
+    "1579/B": {
+      "contestId": 1579,
+      "index": "B",
+      "name": "Shifting Sort",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1579/B"
+    },
+    "1579/A": {
+      "contestId": 1579,
+      "index": "A",
+      "name": "Casimir's String Solitaire",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1579/A"
+    },
     "1574/F": {
       "contestId": 1574,
       "index": "F",
@@ -88387,6 +88469,16 @@
       "1574/C",
       "1574/B",
       "1574/A"
+    ],
+    "1579": [
+      "1579/G",
+      "1579/F",
+      "1579/E2",
+      "1579/E1",
+      "1579/D",
+      "1579/C",
+      "1579/B",
+      "1579/A"
     ]
   }
 }
