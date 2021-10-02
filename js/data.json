@@ -1171,8 +1171,11 @@
     ],
     "other": [
       1585,
+      1597,
       1584,
+      1596,
       1583,
+      1595,
       1576,
       1571,
       1575,
@@ -1529,6 +1532,94 @@
     ]
   },
   "problems": {
+    "1581/B": {
+      "contestId": 1581,
+      "index": "B",
+      "name": "Diameter of Graph",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1581/B"
+    },
+    "1581/A": {
+      "contestId": 1581,
+      "index": "A",
+      "name": "CQXYM Count Permutations",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1581/A"
+    },
+    "1580/F": {
+      "contestId": 1580,
+      "index": "F",
+      "name": "Problems for Codeforces",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "rating": 3300,
+      "tags": "",
+      "color": "#f33",
+      "id": "1580/F"
+    },
+    "1580/E": {
+      "contestId": 1580,
+      "index": "E",
+      "name": "Railway Construction",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "rating": 3400,
+      "tags": "",
+      "color": "#f33",
+      "id": "1580/E"
+    },
+    "1580/D": {
+      "contestId": 1580,
+      "index": "D",
+      "name": "Subsequence",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2900,
+      "tags": "",
+      "color": "#f33",
+      "id": "1580/D"
+    },
+    "1580/C": {
+      "contestId": 1580,
+      "index": "C",
+      "name": "Train Maintenance",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1580/C"
+    },
+    "1580/B": {
+      "contestId": 1580,
+      "index": "B",
+      "name": "Mathematics Curriculum",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1580/B"
+    },
+    "1580/A": {
+      "contestId": 1580,
+      "index": "A",
+      "name": "Portal",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1580/A"
+    },
     "1579/G": {
       "contestId": 1579,
       "index": "G",
@@ -1608,6 +1699,123 @@
       "tags": "",
       "color": "#ccc",
       "id": "1579/A"
+    },
+    "1578/M": {
+      "contestId": 1578,
+      "index": "M",
+      "name": "The Mind",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/M"
+    },
+    "1578/L": {
+      "contestId": 1578,
+      "index": "L",
+      "name": "Labyrinth",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/L"
+    },
+    "1578/K": {
+      "contestId": 1578,
+      "index": "K",
+      "name": "Kingdom of Islands",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/K"
+    },
+    "1578/J": {
+      "contestId": 1578,
+      "index": "J",
+      "name": "Just Kingdom",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/J"
+    },
+    "1578/I": {
+      "contestId": 1578,
+      "index": "I",
+      "name": "Interactive Rays",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/I"
+    },
+    "1578/H": {
+      "contestId": 1578,
+      "index": "H",
+      "name": "Higher Order Functions",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/H"
+    },
+    "1578/G": {
+      "contestId": 1578,
+      "index": "G",
+      "name": "Game of Chance",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/G"
+    },
+    "1578/F": {
+      "contestId": 1578,
+      "index": "F",
+      "name": "Framing Pictures",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/F"
+    },
+    "1578/E": {
+      "contestId": 1578,
+      "index": "E",
+      "name": "Easy Scheduling",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/E"
+    },
+    "1578/D": {
+      "contestId": 1578,
+      "index": "D",
+      "name": "Dragon Curve",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/D"
+    },
+    "1578/C": {
+      "contestId": 1578,
+      "index": "C",
+      "name": "Cactus Lady and her Cing",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/C"
+    },
+    "1578/B": {
+      "contestId": 1578,
+      "index": "B",
+      "name": "Building Forest Trails",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/B"
+    },
+    "1578/A": {
+      "contestId": 1578,
+      "index": "A",
+      "name": "Anti-Tetris",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1578/A"
     },
     "1574/F": {
       "contestId": 1574,
@@ -88470,6 +88678,21 @@
       "1574/B",
       "1574/A"
     ],
+    "1578": [
+      "1578/M",
+      "1578/L",
+      "1578/K",
+      "1578/J",
+      "1578/I",
+      "1578/H",
+      "1578/G",
+      "1578/F",
+      "1578/E",
+      "1578/D",
+      "1578/C",
+      "1578/B",
+      "1578/A"
+    ],
     "1579": [
       "1579/G",
       "1579/F",
@@ -88479,6 +88702,18 @@
       "1579/C",
       "1579/B",
       "1579/A"
+    ],
+    "1580": [
+      "1580/F",
+      "1580/E",
+      "1580/D",
+      "1580/C",
+      "1580/B",
+      "1580/A"
+    ],
+    "1581": [
+      "1581/B",
+      "1581/A"
     ]
   }
 }
