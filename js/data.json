@@ -1705,8 +1705,9 @@
       "index": "M",
       "name": "The Mind",
       "type": "PROGRAMMING",
+      "rating": 2700,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1578/M"
     },
     "1578/L": {
@@ -1714,8 +1715,9 @@
       "index": "L",
       "name": "Labyrinth",
       "type": "PROGRAMMING",
+      "rating": 2400,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1578/L"
     },
     "1578/K": {
@@ -1723,8 +1725,9 @@
       "index": "K",
       "name": "Kingdom of Islands",
       "type": "PROGRAMMING",
+      "rating": 2800,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1578/K"
     },
     "1578/J": {
@@ -1732,8 +1735,9 @@
       "index": "J",
       "name": "Just Kingdom",
       "type": "PROGRAMMING",
+      "rating": 3100,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1578/J"
     },
     "1578/I": {
@@ -1741,8 +1745,9 @@
       "index": "I",
       "name": "Interactive Rays",
       "type": "PROGRAMMING",
+      "rating": 3300,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1578/I"
     },
     "1578/H": {
@@ -1750,8 +1755,9 @@
       "index": "H",
       "name": "Higher Order Functions",
       "type": "PROGRAMMING",
+      "rating": 1700,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1578/H"
     },
     "1578/G": {
@@ -1759,8 +1765,9 @@
       "index": "G",
       "name": "Game of Chance",
       "type": "PROGRAMMING",
+      "rating": 3500,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1578/G"
     },
     "1578/F": {
@@ -1768,8 +1775,9 @@
       "index": "F",
       "name": "Framing Pictures",
       "type": "PROGRAMMING",
+      "rating": 2900,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1578/F"
     },
     "1578/E": {
@@ -1777,8 +1785,9 @@
       "index": "E",
       "name": "Easy Scheduling",
       "type": "PROGRAMMING",
+      "rating": 1200,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1578/E"
     },
     "1578/D": {
@@ -1786,8 +1795,9 @@
       "index": "D",
       "name": "Dragon Curve",
       "type": "PROGRAMMING",
+      "rating": 3200,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1578/D"
     },
     "1578/C": {
@@ -1795,8 +1805,9 @@
       "index": "C",
       "name": "Cactus Lady and her Cing",
       "type": "PROGRAMMING",
+      "rating": 3500,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1578/C"
     },
     "1578/B": {
@@ -1804,8 +1815,9 @@
       "index": "B",
       "name": "Building Forest Trails",
       "type": "PROGRAMMING",
+      "rating": 2800,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1578/B"
     },
     "1578/A": {
@@ -1813,9 +1825,127 @@
       "index": "A",
       "name": "Anti-Tetris",
       "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": "",
+      "color": "#f33",
+      "id": "1578/A"
+    },
+    "1575/M": {
+      "contestId": 1575,
+      "index": "M",
+      "name": "Managing Telephone Poles",
+      "type": "PROGRAMMING",
       "tags": "",
       "color": "#fff",
-      "id": "1578/A"
+      "id": "1575/M"
+    },
+    "1575/L": {
+      "contestId": 1575,
+      "index": "L",
+      "name": "Longest Array Deconstruction",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1575/L"
+    },
+    "1575/K": {
+      "contestId": 1575,
+      "index": "K",
+      "name": "Knitting Batik",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1575/K"
+    },
+    "1575/J": {
+      "contestId": 1575,
+      "index": "J",
+      "name": "Jeopardy of Dropped Balls",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1575/J"
+    },
+    "1575/I": {
+      "contestId": 1575,
+      "index": "I",
+      "name": "Illusions of the Desert",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1575/I"
+    },
+    "1575/H": {
+      "contestId": 1575,
+      "index": "H",
+      "name": "Holiday Wall Ornaments",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1575/H"
+    },
+    "1575/G": {
+      "contestId": 1575,
+      "index": "G",
+      "name": "GCD Festival",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1575/G"
+    },
+    "1575/F": {
+      "contestId": 1575,
+      "index": "F",
+      "name": "Finding Expected Value",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1575/F"
+    },
+    "1575/E": {
+      "contestId": 1575,
+      "index": "E",
+      "name": "Eye-Pleasing City Park Tour",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1575/E"
+    },
+    "1575/D": {
+      "contestId": 1575,
+      "index": "D",
+      "name": "Divisible by Twenty-Five",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1575/D"
+    },
+    "1575/C": {
+      "contestId": 1575,
+      "index": "C",
+      "name": "Cyclic Sum",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1575/C"
+    },
+    "1575/B": {
+      "contestId": 1575,
+      "index": "B",
+      "name": "Building an Amusement Park",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1575/B"
+    },
+    "1575/A": {
+      "contestId": 1575,
+      "index": "A",
+      "name": "Another Sorting Problem",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1575/A"
     },
     "1574/F": {
       "contestId": 1574,
@@ -88677,6 +88807,21 @@
       "1574/C",
       "1574/B",
       "1574/A"
+    ],
+    "1575": [
+      "1575/M",
+      "1575/L",
+      "1575/K",
+      "1575/J",
+      "1575/I",
+      "1575/H",
+      "1575/G",
+      "1575/F",
+      "1575/E",
+      "1575/D",
+      "1575/C",
+      "1575/B",
+      "1575/A"
     ],
     "1578": [
       "1578/M",
