@@ -1532,6 +1532,76 @@
     ]
   },
   "problems": {
+    "1592/F2": {
+      "contestId": 1592,
+      "index": "F2",
+      "name": "Alice and Recoloring 2",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1592/F2"
+    },
+    "1592/F1": {
+      "contestId": 1592,
+      "index": "F1",
+      "name": "Alice and Recoloring 1",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "tags": "",
+      "color": "#fff",
+      "id": "1592/F1"
+    },
+    "1592/E": {
+      "contestId": 1592,
+      "index": "E",
+      "name": "Bored Bakry",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1592/E"
+    },
+    "1592/D": {
+      "contestId": 1592,
+      "index": "D",
+      "name": "Hemose in ICPC ?",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1592/D"
+    },
+    "1592/C": {
+      "contestId": 1592,
+      "index": "C",
+      "name": "Bakry and Partitioning",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1592/C"
+    },
+    "1592/B": {
+      "contestId": 1592,
+      "index": "B",
+      "name": "Hemose Shopping",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "tags": "",
+      "color": "#fff",
+      "id": "1592/B"
+    },
+    "1592/A": {
+      "contestId": 1592,
+      "index": "A",
+      "name": "Gamer Hemose",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "tags": "",
+      "color": "#fff",
+      "id": "1592/A"
+    },
     "1581/B": {
       "contestId": 1581,
       "index": "B",
@@ -88859,6 +88929,15 @@
     "1581": [
       "1581/B",
       "1581/A"
+    ],
+    "1592": [
+      "1592/F2",
+      "1592/F1",
+      "1592/E",
+      "1592/D",
+      "1592/C",
+      "1592/B",
+      "1592/A"
     ]
   }
 }
