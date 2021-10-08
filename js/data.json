@@ -1,6 +1,7 @@
 {
   "groups": {
     "Educational": [
+      1598,
       1574,
       1569,
       1555,
@@ -1538,8 +1539,9 @@
       "name": "Alice and Recoloring 2",
       "type": "PROGRAMMING",
       "points": 1750,
+      "rating": 2800,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1592/F2"
     },
     "1592/F1": {
@@ -1548,8 +1550,9 @@
       "name": "Alice and Recoloring 1",
       "type": "PROGRAMMING",
       "points": 1750,
+      "rating": 2600,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1592/F1"
     },
     "1592/E": {
@@ -1558,8 +1561,9 @@
       "name": "Bored Bakry",
       "type": "PROGRAMMING",
       "points": 2500,
+      "rating": 2400,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1592/E"
     },
     "1592/D": {
@@ -1568,8 +1572,9 @@
       "name": "Hemose in ICPC ?",
       "type": "PROGRAMMING",
       "points": 2000,
+      "rating": 2300,
       "tags": "",
-      "color": "#fff",
+      "color": "#ffbb55",
       "id": "1592/D"
     },
     "1592/C": {
@@ -1578,8 +1583,9 @@
       "name": "Bakry and Partitioning",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 1700,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1592/C"
     },
     "1592/B": {
@@ -1588,8 +1594,9 @@
       "name": "Hemose Shopping",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 1200,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1592/B"
     },
     "1592/A": {
@@ -1598,8 +1605,9 @@
       "name": "Gamer Hemose",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1592/A"
     },
     "1581/B": {
@@ -1905,8 +1913,9 @@
       "index": "M",
       "name": "Managing Telephone Poles",
       "type": "PROGRAMMING",
+      "rating": 2400,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1575/M"
     },
     "1575/L": {
@@ -1914,8 +1923,9 @@
       "index": "L",
       "name": "Longest Array Deconstruction",
       "type": "PROGRAMMING",
+      "rating": 2100,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1575/L"
     },
     "1575/K": {
@@ -1923,8 +1933,9 @@
       "index": "K",
       "name": "Knitting Batik",
       "type": "PROGRAMMING",
+      "rating": 2200,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1575/K"
     },
     "1575/J": {
@@ -1932,8 +1943,9 @@
       "index": "J",
       "name": "Jeopardy of Dropped Balls",
       "type": "PROGRAMMING",
+      "rating": 1500,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1575/J"
     },
     "1575/I": {
@@ -1941,8 +1953,9 @@
       "index": "I",
       "name": "Illusions of the Desert",
       "type": "PROGRAMMING",
+      "rating": 2300,
       "tags": "",
-      "color": "#fff",
+      "color": "#ffbb55",
       "id": "1575/I"
     },
     "1575/H": {
@@ -1950,8 +1963,9 @@
       "index": "H",
       "name": "Holiday Wall Ornaments",
       "type": "PROGRAMMING",
+      "rating": 2200,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1575/H"
     },
     "1575/G": {
@@ -1959,8 +1973,9 @@
       "index": "G",
       "name": "GCD Festival",
       "type": "PROGRAMMING",
+      "rating": 2200,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1575/G"
     },
     "1575/F": {
@@ -1968,8 +1983,9 @@
       "index": "F",
       "name": "Finding Expected Value",
       "type": "PROGRAMMING",
+      "rating": 2900,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1575/F"
     },
     "1575/E": {
@@ -1977,8 +1993,9 @@
       "index": "E",
       "name": "Eye-Pleasing City Park Tour",
       "type": "PROGRAMMING",
+      "rating": 2600,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1575/E"
     },
     "1575/D": {
@@ -1986,8 +2003,9 @@
       "index": "D",
       "name": "Divisible by Twenty-Five",
       "type": "PROGRAMMING",
+      "rating": 1800,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1575/D"
     },
     "1575/C": {
@@ -1995,8 +2013,9 @@
       "index": "C",
       "name": "Cyclic Sum",
       "type": "PROGRAMMING",
+      "rating": 3000,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1575/C"
     },
     "1575/B": {
@@ -2004,8 +2023,9 @@
       "index": "B",
       "name": "Building an Amusement Park",
       "type": "PROGRAMMING",
+      "rating": 2300,
       "tags": "",
-      "color": "#fff",
+      "color": "#ffbb55",
       "id": "1575/B"
     },
     "1575/A": {
@@ -2013,8 +2033,9 @@
       "index": "A",
       "name": "Another Sorting Problem",
       "type": "PROGRAMMING",
+      "rating": 1100,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1575/A"
     },
     "1574/F": {
@@ -2164,6 +2185,177 @@
       "tags": "",
       "color": "#aaf",
       "id": "1572/A"
+    },
+    "1571/J": {
+      "contestId": 1571,
+      "index": "J",
+      "name": "Two Railroads",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1571/J"
+    },
+    "1571/I": {
+      "contestId": 1571,
+      "index": "I",
+      "name": "Physical Examination",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1571/I"
+    },
+    "1571/H": {
+      "contestId": 1571,
+      "index": "H",
+      "name": "Laser Beams",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1571/H"
+    },
+    "1571/G": {
+      "contestId": 1571,
+      "index": "G",
+      "name": "A Battle Against a Dragon",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1571/G"
+    },
+    "1571/F": {
+      "contestId": 1571,
+      "index": "F",
+      "name": "Kotlinforces",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1571/F"
+    },
+    "1571/E": {
+      "contestId": 1571,
+      "index": "E",
+      "name": "Fix the String",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1571/E"
+    },
+    "1571/D": {
+      "contestId": 1571,
+      "index": "D",
+      "name": "Sweepstake",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1571/D"
+    },
+    "1571/C": {
+      "contestId": 1571,
+      "index": "C",
+      "name": "Rhyme",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1571/C"
+    },
+    "1571/B": {
+      "contestId": 1571,
+      "index": "B",
+      "name": "Epic Novel",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1571/B"
+    },
+    "1571/A": {
+      "contestId": 1571,
+      "index": "A",
+      "name": "Sequence of Comparisons",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1571/A"
+    },
+    "1570/I": {
+      "contestId": 1570,
+      "index": "I",
+      "name": "Minimum Difference",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1570/I"
+    },
+    "1570/H": {
+      "contestId": 1570,
+      "index": "H",
+      "name": "Chainword",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1570/H"
+    },
+    "1570/G": {
+      "contestId": 1570,
+      "index": "G",
+      "name": "XOR Guessing",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1570/G"
+    },
+    "1570/F": {
+      "contestId": 1570,
+      "index": "F",
+      "name": "Square Filling",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1570/F"
+    },
+    "1570/E": {
+      "contestId": 1570,
+      "index": "E",
+      "name": "Erasing Zeroes",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1570/E"
+    },
+    "1570/D": {
+      "contestId": 1570,
+      "index": "D",
+      "name": "Reachable Numbers",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1570/D"
+    },
+    "1570/C": {
+      "contestId": 1570,
+      "index": "C",
+      "name": "Shooting",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1570/C"
+    },
+    "1570/B": {
+      "contestId": 1570,
+      "index": "B",
+      "name": "Yellow Cards",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1570/B"
+    },
+    "1570/A": {
+      "contestId": 1570,
+      "index": "A",
+      "name": "A+B (Trial Problem)",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1570/A"
     },
     "1569/F": {
       "contestId": 1569,
@@ -88857,6 +89049,29 @@
       "1569/C",
       "1569/B",
       "1569/A"
+    ],
+    "1570": [
+      "1570/I",
+      "1570/H",
+      "1570/G",
+      "1570/F",
+      "1570/E",
+      "1570/D",
+      "1570/C",
+      "1570/B",
+      "1570/A"
+    ],
+    "1571": [
+      "1571/J",
+      "1571/I",
+      "1571/H",
+      "1571/G",
+      "1571/F",
+      "1571/E",
+      "1571/D",
+      "1571/C",
+      "1571/B",
+      "1571/A"
     ],
     "1572": [
       "1572/F",
