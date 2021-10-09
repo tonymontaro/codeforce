@@ -187,7 +187,8 @@
       1591,
       1589,
       1582,
-      1587,
+      1586,
+      1600,
       1594,
       1592,
       1581,
@@ -858,7 +859,7 @@
     "Div. 1": [
       1590,
       1588,
-      1586,
+      1599,
       1580,
       1572,
       1558,
@@ -1533,6 +1534,83 @@
     ]
   },
   "problems": {
+    "1594/F": {
+      "contestId": 1594,
+      "index": "F",
+      "name": "Ideal Farm",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1594/F"
+    },
+    "1594/E2": {
+      "contestId": 1594,
+      "index": "E2",
+      "name": "Rubik's Cube Coloring (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 2300,
+      "tags": "",
+      "color": "#ffbb55",
+      "id": "1594/E2"
+    },
+    "1594/E1": {
+      "contestId": 1594,
+      "index": "E1",
+      "name": "Rubik's Cube Coloring (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1594/E1"
+    },
+    "1594/D": {
+      "contestId": 1594,
+      "index": "D",
+      "name": "The Number of Imposters",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1594/D"
+    },
+    "1594/C": {
+      "contestId": 1594,
+      "index": "C",
+      "name": "Make Them Equal",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1594/C"
+    },
+    "1594/B": {
+      "contestId": 1594,
+      "index": "B",
+      "name": "Special Numbers",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1594/B"
+    },
+    "1594/A": {
+      "contestId": 1594,
+      "index": "A",
+      "name": "Consecutive Sum Riddle",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1594/A"
+    },
     "1592/F2": {
       "contestId": 1592,
       "index": "F2",
@@ -89153,6 +89231,15 @@
       "1592/C",
       "1592/B",
       "1592/A"
+    ],
+    "1594": [
+      "1594/F",
+      "1594/E2",
+      "1594/E1",
+      "1594/D",
+      "1594/C",
+      "1594/B",
+      "1594/A"
     ]
   }
 }
