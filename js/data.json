@@ -1534,6 +1534,123 @@
     ]
   },
   "problems": {
+    "1600/J": {
+      "contestId": 1600,
+      "index": "J",
+      "name": "Robot Factory",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1600/J"
+    },
+    "1600/F": {
+      "contestId": 1600,
+      "index": "F",
+      "name": "Party Organization",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1600/F"
+    },
+    "1600/E": {
+      "contestId": 1600,
+      "index": "E",
+      "name": "Array Game",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1600/E"
+    },
+    "1599/J": {
+      "contestId": 1599,
+      "index": "J",
+      "name": "Bob's Beautiful Array",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1599/J"
+    },
+    "1599/I": {
+      "contestId": 1599,
+      "index": "I",
+      "name": "Desert",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1599/I"
+    },
+    "1599/H": {
+      "contestId": 1599,
+      "index": "H",
+      "name": "Hidden Fortress",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1599/H"
+    },
+    "1599/G": {
+      "contestId": 1599,
+      "index": "G",
+      "name": "Shortest path",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1599/G"
+    },
+    "1599/F": {
+      "contestId": 1599,
+      "index": "F",
+      "name": "Mars",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1599/F"
+    },
+    "1599/E": {
+      "contestId": 1599,
+      "index": "E",
+      "name": "Two Arrays",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1599/E"
+    },
+    "1599/D": {
+      "contestId": 1599,
+      "index": "D",
+      "name": "Bubble Popping",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1599/D"
+    },
+    "1599/C": {
+      "contestId": 1599,
+      "index": "C",
+      "name": "Bubble Strike",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1599/C"
+    },
+    "1599/B": {
+      "contestId": 1599,
+      "index": "B",
+      "name": "Restaurant Game",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1599/B"
+    },
+    "1599/A": {
+      "contestId": 1599,
+      "index": "A",
+      "name": "Weights",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1599/A"
+    },
     "1594/F": {
       "contestId": 1594,
       "index": "F",
@@ -89240,6 +89357,23 @@
       "1594/C",
       "1594/B",
       "1594/A"
+    ],
+    "1599": [
+      "1599/J",
+      "1599/I",
+      "1599/H",
+      "1599/G",
+      "1599/F",
+      "1599/E",
+      "1599/D",
+      "1599/C",
+      "1599/B",
+      "1599/A"
+    ],
+    "1600": [
+      "1600/J",
+      "1600/F",
+      "1600/E"
     ]
   }
 }
