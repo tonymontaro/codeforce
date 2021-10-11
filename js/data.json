@@ -1539,8 +1539,9 @@
       "index": "J",
       "name": "Robot Factory",
       "type": "PROGRAMMING",
+      "rating": 1400,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1600/J"
     },
     "1600/F": {
@@ -1548,8 +1549,9 @@
       "index": "F",
       "name": "Party Organization",
       "type": "PROGRAMMING",
+      "rating": 2300,
       "tags": "",
-      "color": "#fff",
+      "color": "#ffbb55",
       "id": "1600/F"
     },
     "1600/E": {
@@ -1557,8 +1559,9 @@
       "index": "E",
       "name": "Array Game",
       "type": "PROGRAMMING",
+      "rating": 1900,
       "tags": "",
-      "color": "#fff",
+      "color": "#f988ff",
       "id": "1600/E"
     },
     "1599/J": {
@@ -1566,8 +1569,9 @@
       "index": "J",
       "name": "Bob's Beautiful Array",
       "type": "PROGRAMMING",
+      "rating": 2600,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1599/J"
     },
     "1599/I": {
@@ -1575,8 +1579,9 @@
       "index": "I",
       "name": "Desert",
       "type": "PROGRAMMING",
+      "rating": 2700,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1599/I"
     },
     "1599/H": {
@@ -1584,8 +1589,9 @@
       "index": "H",
       "name": "Hidden Fortress",
       "type": "PROGRAMMING",
+      "rating": 2100,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1599/H"
     },
     "1599/G": {
@@ -1593,8 +1599,9 @@
       "index": "G",
       "name": "Shortest path",
       "type": "PROGRAMMING",
+      "rating": 2700,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1599/G"
     },
     "1599/F": {
@@ -1602,8 +1609,9 @@
       "index": "F",
       "name": "Mars",
       "type": "PROGRAMMING",
+      "rating": 2700,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1599/F"
     },
     "1599/E": {
@@ -1611,8 +1619,9 @@
       "index": "E",
       "name": "Two Arrays",
       "type": "PROGRAMMING",
+      "rating": 3200,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1599/E"
     },
     "1599/D": {
@@ -1620,8 +1629,9 @@
       "index": "D",
       "name": "Bubble Popping",
       "type": "PROGRAMMING",
+      "rating": 3200,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1599/D"
     },
     "1599/C": {
@@ -1629,8 +1639,9 @@
       "index": "C",
       "name": "Bubble Strike",
       "type": "PROGRAMMING",
+      "rating": 2000,
       "tags": "",
-      "color": "#fff",
+      "color": "#f988ff",
       "id": "1599/C"
     },
     "1599/B": {
@@ -1638,8 +1649,9 @@
       "index": "B",
       "name": "Restaurant Game",
       "type": "PROGRAMMING",
+      "rating": 3100,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1599/B"
     },
     "1599/A": {
@@ -1647,9 +1659,73 @@
       "index": "A",
       "name": "Weights",
       "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1599/A"
+    },
+    "1598/G": {
+      "contestId": 1598,
+      "index": "G",
+      "name": "The Sum of Good Numbers",
+      "type": "PROGRAMMING",
       "tags": "",
       "color": "#fff",
-      "id": "1599/A"
+      "id": "1598/G"
+    },
+    "1598/F": {
+      "contestId": 1598,
+      "index": "F",
+      "name": "RBS",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1598/F"
+    },
+    "1598/E": {
+      "contestId": 1598,
+      "index": "E",
+      "name": "Staircases",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1598/E"
+    },
+    "1598/D": {
+      "contestId": 1598,
+      "index": "D",
+      "name": "Training Session",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1598/D"
+    },
+    "1598/C": {
+      "contestId": 1598,
+      "index": "C",
+      "name": "Delete Two Elements",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1598/C"
+    },
+    "1598/B": {
+      "contestId": 1598,
+      "index": "B",
+      "name": "Groups",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1598/B"
+    },
+    "1598/A": {
+      "contestId": 1598,
+      "index": "A",
+      "name": "Computer Game",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1598/A"
     },
     "1594/F": {
       "contestId": 1594,
@@ -89357,6 +89433,15 @@
       "1594/C",
       "1594/B",
       "1594/A"
+    ],
+    "1598": [
+      "1598/G",
+      "1598/F",
+      "1598/E",
+      "1598/D",
+      "1598/C",
+      "1598/B",
+      "1598/A"
     ],
     "1599": [
       "1599/J",
