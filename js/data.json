@@ -1,6 +1,10 @@
 {
   "groups": {
     "Educational": [
+      1620,
+      1613,
+      1612,
+      1606,
       1598,
       1574,
       1569,
@@ -119,6 +123,10 @@
       598
     ],
     "Div. 3": [
+      1619,
+      1618,
+      1611,
+      1607,
       1593,
       1579,
       1560,
@@ -184,8 +192,15 @@
       977
     ],
     "Div. 2": [
+      1617,
       1591,
+      1608,
+      1609,
+      1614,
       1589,
+      1605,
+      1604,
+      1602,
       1582,
       1586,
       1600,
@@ -857,8 +872,9 @@
       4
     ],
     "Div. 1": [
-      1590,
       1588,
+      1603,
+      1601,
       1599,
       1580,
       1572,
@@ -1172,8 +1188,12 @@
       77
     ],
     "other": [
+      1621,
+      1616,
+      1615,
       1585,
       1597,
+      1610,
       1584,
       1596,
       1583,
@@ -1534,6 +1554,998 @@
     ]
   },
   "problems": {
+    "1618/G": {
+      "contestId": 1618,
+      "index": "G",
+      "name": "Trader Problem",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1618/G"
+    },
+    "1618/F": {
+      "contestId": 1618,
+      "index": "F",
+      "name": "Reverse",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1618/F"
+    },
+    "1618/E": {
+      "contestId": 1618,
+      "index": "E",
+      "name": "Singers' Tour",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1618/E"
+    },
+    "1618/D": {
+      "contestId": 1618,
+      "index": "D",
+      "name": "Array and Operations",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1618/D"
+    },
+    "1618/C": {
+      "contestId": 1618,
+      "index": "C",
+      "name": "Paint the Array",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1618/C"
+    },
+    "1618/B": {
+      "contestId": 1618,
+      "index": "B",
+      "name": "Missing Bigram",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1618/B"
+    },
+    "1618/A": {
+      "contestId": 1618,
+      "index": "A",
+      "name": "Polycarp and Sums of Subsequences",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1618/A"
+    },
+    "1614/E": {
+      "contestId": 1614,
+      "index": "E",
+      "name": "Divan and a Cottage",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1614/E"
+    },
+    "1614/D2": {
+      "contestId": 1614,
+      "index": "D2",
+      "name": "Divan and Kostomuksha (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 2300,
+      "tags": "",
+      "color": "#ffbb55",
+      "id": "1614/D2"
+    },
+    "1614/D1": {
+      "contestId": 1614,
+      "index": "D1",
+      "name": "Divan and Kostomuksha (easy version)",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 2100,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1614/D1"
+    },
+    "1614/C": {
+      "contestId": 1614,
+      "index": "C",
+      "name": "Divan and bitwise operations",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1500,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1614/C"
+    },
+    "1614/B": {
+      "contestId": 1614,
+      "index": "B",
+      "name": "Divan and a New Project ",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1614/B"
+    },
+    "1614/A": {
+      "contestId": 1614,
+      "index": "A",
+      "name": "Divan and a Store",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1614/A"
+    },
+    "1613/F": {
+      "contestId": 1613,
+      "index": "F",
+      "name": "Tree Coloring",
+      "type": "PROGRAMMING",
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1613/F"
+    },
+    "1613/E": {
+      "contestId": 1613,
+      "index": "E",
+      "name": "Crazy Robot",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1613/E"
+    },
+    "1613/D": {
+      "contestId": 1613,
+      "index": "D",
+      "name": "MEX Sequences",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1613/D"
+    },
+    "1613/C": {
+      "contestId": 1613,
+      "index": "C",
+      "name": "Poisoned Dagger",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1613/C"
+    },
+    "1613/B": {
+      "contestId": 1613,
+      "index": "B",
+      "name": "Absent Remainder",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1613/B"
+    },
+    "1613/A": {
+      "contestId": 1613,
+      "index": "A",
+      "name": "Long Comparison",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1613/A"
+    },
+    "1612/G": {
+      "contestId": 1612,
+      "index": "G",
+      "name": "Max Sum Array",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": "",
+      "color": "#f77",
+      "id": "1612/G"
+    },
+    "1612/F": {
+      "contestId": 1612,
+      "index": "F",
+      "name": "Armor and Weapons",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": "",
+      "color": "#f33",
+      "id": "1612/F"
+    },
+    "1612/E": {
+      "contestId": 1612,
+      "index": "E",
+      "name": "Messages",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1612/E"
+    },
+    "1612/D": {
+      "contestId": 1612,
+      "index": "D",
+      "name": "X-Magic Pair",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1612/D"
+    },
+    "1612/C": {
+      "contestId": 1612,
+      "index": "C",
+      "name": "Chat Ban",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1612/C"
+    },
+    "1612/B": {
+      "contestId": 1612,
+      "index": "B",
+      "name": "Special Permutation",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1612/B"
+    },
+    "1612/A": {
+      "contestId": 1612,
+      "index": "A",
+      "name": "Distance",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1612/A"
+    },
+    "1611/G": {
+      "contestId": 1611,
+      "index": "G",
+      "name": "Robot and Candies",
+      "type": "PROGRAMMING",
+      "rating": 2500,
+      "tags": "",
+      "color": "#f77",
+      "id": "1611/G"
+    },
+    "1611/F": {
+      "contestId": 1611,
+      "index": "F",
+      "name": "ATM and Students",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1611/F"
+    },
+    "1611/E2": {
+      "contestId": 1611,
+      "index": "E2",
+      "name": "Escape The Maze (hard version)",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1611/E2"
+    },
+    "1611/E1": {
+      "contestId": 1611,
+      "index": "E1",
+      "name": "Escape The Maze (easy version)",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1611/E1"
+    },
+    "1611/D": {
+      "contestId": 1611,
+      "index": "D",
+      "name": "Weights Assignment For Tree Edges",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1611/D"
+    },
+    "1611/C": {
+      "contestId": 1611,
+      "index": "C",
+      "name": "Polycarp Recovers the Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1611/C"
+    },
+    "1611/B": {
+      "contestId": 1611,
+      "index": "B",
+      "name": "Team Composition: Programmers and Mathematicians",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1611/B"
+    },
+    "1611/A": {
+      "contestId": 1611,
+      "index": "A",
+      "name": "Make Even",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1611/A"
+    },
+    "1610/I": {
+      "contestId": 1610,
+      "index": "I",
+      "name": "Mashtali vs AtCoder",
+      "type": "PROGRAMMING",
+      "points": 4000,
+      "rating": 3100,
+      "tags": "",
+      "color": "#f33",
+      "id": "1610/I"
+    },
+    "1610/H": {
+      "contestId": 1610,
+      "index": "H",
+      "name": "Squid Game",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "rating": 3100,
+      "tags": "",
+      "color": "#f33",
+      "id": "1610/H"
+    },
+    "1610/G": {
+      "contestId": 1610,
+      "index": "G",
+      "name": "AmShZ Wins a Bet",
+      "type": "PROGRAMMING",
+      "points": 3250,
+      "rating": 3300,
+      "tags": "",
+      "color": "#f33",
+      "id": "1610/G"
+    },
+    "1610/F": {
+      "contestId": 1610,
+      "index": "F",
+      "name": "Mashtali: a Space Oddysey",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 3000,
+      "tags": "",
+      "color": "#f33",
+      "id": "1610/F"
+    },
+    "1610/E": {
+      "contestId": 1610,
+      "index": "E",
+      "name": "AmShZ and G.O.A.T.",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2300,
+      "tags": "",
+      "color": "#ffbb55",
+      "id": "1610/E"
+    },
+    "1610/D": {
+      "contestId": 1610,
+      "index": "D",
+      "name": "Not Quite Lee",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1610/D"
+    },
+    "1610/C": {
+      "contestId": 1610,
+      "index": "C",
+      "name": "Keshi Is Throwing a Party",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1610/C"
+    },
+    "1610/B": {
+      "contestId": 1610,
+      "index": "B",
+      "name": "Kalindrome Array",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1610/B"
+    },
+    "1610/A": {
+      "contestId": 1610,
+      "index": "A",
+      "name": "Anti Light's Cell Guessing",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1610/A"
+    },
+    "1609/H": {
+      "contestId": 1609,
+      "index": "H",
+      "name": "Pushing Robots",
+      "type": "PROGRAMMING",
+      "points": 3750,
+      "rating": 3500,
+      "tags": "",
+      "color": "#f33",
+      "id": "1609/H"
+    },
+    "1609/G": {
+      "contestId": 1609,
+      "index": "G",
+      "name": "A Stroll Around the Matrix",
+      "type": "PROGRAMMING",
+      "points": 3250,
+      "rating": 3000,
+      "tags": "",
+      "color": "#f33",
+      "id": "1609/G"
+    },
+    "1609/F": {
+      "contestId": 1609,
+      "index": "F",
+      "name": "Interesting Sections",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 2800,
+      "tags": "",
+      "color": "#f33",
+      "id": "1609/F"
+    },
+    "1609/E": {
+      "contestId": 1609,
+      "index": "E",
+      "name": "William The Oblivious ",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1609/E"
+    },
+    "1609/D": {
+      "contestId": 1609,
+      "index": "D",
+      "name": "Social Network",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1609/D"
+    },
+    "1609/C": {
+      "contestId": 1609,
+      "index": "C",
+      "name": "Complex Market Analysis",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1400,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1609/C"
+    },
+    "1609/B": {
+      "contestId": 1609,
+      "index": "B",
+      "name": "William the Vigilant",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1609/B"
+    },
+    "1609/A": {
+      "contestId": 1609,
+      "index": "A",
+      "name": "Divide and Multiply",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1609/A"
+    },
+    "1608/G": {
+      "contestId": 1608,
+      "index": "G",
+      "name": "Alphabetic Tree",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 3500,
+      "tags": "",
+      "color": "#f33",
+      "id": "1608/G"
+    },
+    "1608/F": {
+      "contestId": 1608,
+      "index": "F",
+      "name": "MEX counting",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 3200,
+      "tags": "",
+      "color": "#f33",
+      "id": "1608/F"
+    },
+    "1608/E": {
+      "contestId": 1608,
+      "index": "E",
+      "name": "The Cells on the Paper",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2800,
+      "tags": "",
+      "color": "#f33",
+      "id": "1608/E"
+    },
+    "1608/D": {
+      "contestId": 1608,
+      "index": "D",
+      "name": "Dominoes",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1608/D"
+    },
+    "1608/C": {
+      "contestId": 1608,
+      "index": "C",
+      "name": "Game Master",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1608/C"
+    },
+    "1608/B": {
+      "contestId": 1608,
+      "index": "B",
+      "name": "Build the Permutation",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1608/B"
+    },
+    "1608/A": {
+      "contestId": 1608,
+      "index": "A",
+      "name": "Find Array",
+      "type": "PROGRAMMING",
+      "points": 250,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1608/A"
+    },
+    "1607/H": {
+      "contestId": 1607,
+      "index": "H",
+      "name": "Banquet Preparations 2",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1607/H"
+    },
+    "1607/G": {
+      "contestId": 1607,
+      "index": "G",
+      "name": "Banquet Preparations 1",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1607/G"
+    },
+    "1607/F": {
+      "contestId": 1607,
+      "index": "F",
+      "name": "Robot on the Board 2",
+      "type": "PROGRAMMING",
+      "rating": 2300,
+      "tags": "",
+      "color": "#ffbb55",
+      "id": "1607/F"
+    },
+    "1607/E": {
+      "contestId": 1607,
+      "index": "E",
+      "name": "Robot on the Board 1",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1607/E"
+    },
+    "1607/D": {
+      "contestId": 1607,
+      "index": "D",
+      "name": "Blue-Red Permutation",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1607/D"
+    },
+    "1607/C": {
+      "contestId": 1607,
+      "index": "C",
+      "name": "Minimum Extraction",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1607/C"
+    },
+    "1607/B": {
+      "contestId": 1607,
+      "index": "B",
+      "name": "Odd Grasshopper",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1607/B"
+    },
+    "1607/A": {
+      "contestId": 1607,
+      "index": "A",
+      "name": "Linear Keyboard",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1607/A"
+    },
+    "1606/F": {
+      "contestId": 1606,
+      "index": "F",
+      "name": "Tree Queries",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": "",
+      "color": "#f33",
+      "id": "1606/F"
+    },
+    "1606/E": {
+      "contestId": 1606,
+      "index": "E",
+      "name": "Arena",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1606/E"
+    },
+    "1606/D": {
+      "contestId": 1606,
+      "index": "D",
+      "name": "Red-Blue Matrix",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1606/D"
+    },
+    "1606/C": {
+      "contestId": 1606,
+      "index": "C",
+      "name": "Banknotes",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1606/C"
+    },
+    "1606/B": {
+      "contestId": 1606,
+      "index": "B",
+      "name": "Update Files",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1606/B"
+    },
+    "1606/A": {
+      "contestId": 1606,
+      "index": "A",
+      "name": "AB Balance",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1606/A"
+    },
+    "1605/F": {
+      "contestId": 1605,
+      "index": "F",
+      "name": "PalindORme",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "rating": 2900,
+      "tags": "",
+      "color": "#f33",
+      "id": "1605/F"
+    },
+    "1605/E": {
+      "contestId": 1605,
+      "index": "E",
+      "name": "Array Equalizer",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1605/E"
+    },
+    "1605/D": {
+      "contestId": 1605,
+      "index": "D",
+      "name": "Treelabeling",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2100,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1605/D"
+    },
+    "1605/C": {
+      "contestId": 1605,
+      "index": "C",
+      "name": "Dominant Character",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1400,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1605/C"
+    },
+    "1605/B": {
+      "contestId": 1605,
+      "index": "B",
+      "name": "Reverse Sort",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1605/B"
+    },
+    "1605/A": {
+      "contestId": 1605,
+      "index": "A",
+      "name": "A.M. Deviation",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1605/A"
+    },
+    "1604/B": {
+      "contestId": 1604,
+      "index": "B",
+      "name": "XOR Specia-LIS-t",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1604/B"
+    },
+    "1604/A": {
+      "contestId": 1604,
+      "index": "A",
+      "name": "Era",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1604/A"
+    },
+    "1603/F": {
+      "contestId": 1603,
+      "index": "F",
+      "name": "October 18, 2017",
+      "type": "PROGRAMMING",
+      "points": 3750,
+      "rating": 2700,
+      "tags": "",
+      "color": "#f33",
+      "id": "1603/F"
+    },
+    "1603/E": {
+      "contestId": 1603,
+      "index": "E",
+      "name": "A Perfect Problem",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "rating": 3200,
+      "tags": "",
+      "color": "#f33",
+      "id": "1603/E"
+    },
+    "1603/D": {
+      "contestId": 1603,
+      "index": "D",
+      "name": "Artistic Partition",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 3000,
+      "tags": "",
+      "color": "#f33",
+      "id": "1603/D"
+    },
+    "1603/C": {
+      "contestId": 1603,
+      "index": "C",
+      "name": "Extreme Extension",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "rating": 2300,
+      "tags": "",
+      "color": "#ffbb55",
+      "id": "1603/C"
+    },
+    "1603/B": {
+      "contestId": 1603,
+      "index": "B",
+      "name": "Moderate Modular Mode",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1603/B"
+    },
+    "1603/A": {
+      "contestId": 1603,
+      "index": "A",
+      "name": "Di-visible Confusion",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1603/A"
+    },
+    "1602/B": {
+      "contestId": 1602,
+      "index": "B",
+      "name": "Divine Array",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1602/B"
+    },
+    "1602/A": {
+      "contestId": 1602,
+      "index": "A",
+      "name": "Two Subsequences",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1602/A"
+    },
+    "1601/F": {
+      "contestId": 1601,
+      "index": "F",
+      "name": "Two Sorts",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 3400,
+      "tags": "",
+      "color": "#f33",
+      "id": "1601/F"
+    },
+    "1601/E": {
+      "contestId": 1601,
+      "index": "E",
+      "name": "Phys Ed Online",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "rating": 2900,
+      "tags": "",
+      "color": "#f33",
+      "id": "1601/E"
+    },
+    "1601/D": {
+      "contestId": 1601,
+      "index": "D",
+      "name": "Difficult Mountain",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "rating": 2700,
+      "tags": "",
+      "color": "#f33",
+      "id": "1601/D"
+    },
+    "1601/C": {
+      "contestId": 1601,
+      "index": "C",
+      "name": "Optimal Insertion",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2300,
+      "tags": "",
+      "color": "#ffbb55",
+      "id": "1601/C"
+    },
+    "1601/B": {
+      "contestId": 1601,
+      "index": "B",
+      "name": "Frog Traveler",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "rating": 1900,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1601/B"
+    },
+    "1601/A": {
+      "contestId": 1601,
+      "index": "A",
+      "name": "Array Elimination",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1601/A"
+    },
     "1600/J": {
       "contestId": 1600,
       "index": "J",
@@ -1669,8 +2681,9 @@
       "index": "G",
       "name": "The Sum of Good Numbers",
       "type": "PROGRAMMING",
+      "rating": 3200,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1598/G"
     },
     "1598/F": {
@@ -1678,8 +2691,9 @@
       "index": "F",
       "name": "RBS",
       "type": "PROGRAMMING",
+      "rating": 2400,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1598/F"
     },
     "1598/E": {
@@ -1687,8 +2701,9 @@
       "index": "E",
       "name": "Staircases",
       "type": "PROGRAMMING",
+      "rating": 2100,
       "tags": "",
-      "color": "#fff",
+      "color": "#fdcc87",
       "id": "1598/E"
     },
     "1598/D": {
@@ -1696,8 +2711,9 @@
       "index": "D",
       "name": "Training Session",
       "type": "PROGRAMMING",
+      "rating": 1700,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1598/D"
     },
     "1598/C": {
@@ -1705,8 +2721,9 @@
       "index": "C",
       "name": "Delete Two Elements",
       "type": "PROGRAMMING",
+      "rating": 1200,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1598/C"
     },
     "1598/B": {
@@ -1714,8 +2731,9 @@
       "index": "B",
       "name": "Groups",
       "type": "PROGRAMMING",
+      "rating": 1000,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1598/B"
     },
     "1598/A": {
@@ -1723,8 +2741,9 @@
       "index": "A",
       "name": "Computer Game",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1598/A"
     },
     "1594/F": {
@@ -1804,6 +2823,86 @@
       "color": "#ccc",
       "id": "1594/A"
     },
+    "1593/G": {
+      "contestId": 1593,
+      "index": "G",
+      "name": "Changing Brackets",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1593/G"
+    },
+    "1593/F": {
+      "contestId": 1593,
+      "index": "F",
+      "name": "Red-Black Number",
+      "type": "PROGRAMMING",
+      "rating": 2100,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1593/F"
+    },
+    "1593/E": {
+      "contestId": 1593,
+      "index": "E",
+      "name": "Gardener and Tree",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1593/E"
+    },
+    "1593/D2": {
+      "contestId": 1593,
+      "index": "D2",
+      "name": "Half of Same",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1593/D2"
+    },
+    "1593/D1": {
+      "contestId": 1593,
+      "index": "D1",
+      "name": "All are Same",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1593/D1"
+    },
+    "1593/C": {
+      "contestId": 1593,
+      "index": "C",
+      "name": "Save More Mice",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1593/C"
+    },
+    "1593/B": {
+      "contestId": 1593,
+      "index": "B",
+      "name": "Make it Divisible by 25",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1593/B"
+    },
+    "1593/A": {
+      "contestId": 1593,
+      "index": "A",
+      "name": "Elections",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1593/A"
+    },
     "1592/F2": {
       "contestId": 1592,
       "index": "F2",
@@ -1880,6 +2979,358 @@
       "tags": "",
       "color": "#ccc",
       "id": "1592/A"
+    },
+    "1588/F": {
+      "contestId": 1588,
+      "index": "F",
+      "name": "Jumping Through the Array",
+      "type": "PROGRAMMING",
+      "points": 3750,
+      "rating": 3500,
+      "tags": "",
+      "color": "#f33",
+      "id": "1588/F"
+    },
+    "1586/I": {
+      "contestId": 1586,
+      "index": "I",
+      "name": "Omkar and Mosaic",
+      "type": "PROGRAMMING",
+      "points": 4000,
+      "rating": 3500,
+      "tags": "",
+      "color": "#f33",
+      "id": "1586/I"
+    },
+    "1585/G": {
+      "contestId": 1585,
+      "index": "G",
+      "name": "Poachers",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "rating": 2500,
+      "tags": "",
+      "color": "#f77",
+      "id": "1585/G"
+    },
+    "1585/F": {
+      "contestId": 1585,
+      "index": "F",
+      "name": "Non-equal Neighbours",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1585/F"
+    },
+    "1585/E": {
+      "contestId": 1585,
+      "index": "E",
+      "name": "Frequency Queries",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1585/E"
+    },
+    "1585/D": {
+      "contestId": 1585,
+      "index": "D",
+      "name": "Yet Another Sorting Problem",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 1900,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1585/D"
+    },
+    "1585/C": {
+      "contestId": 1585,
+      "index": "C",
+      "name": "Minimize Distance",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1585/C"
+    },
+    "1585/B": {
+      "contestId": 1585,
+      "index": "B",
+      "name": "Array Eversion",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1585/B"
+    },
+    "1585/A": {
+      "contestId": 1585,
+      "index": "A",
+      "name": "Life of a Flower",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1585/A"
+    },
+    "1584/G": {
+      "contestId": 1584,
+      "index": "G",
+      "name": "Eligible Segments",
+      "type": "PROGRAMMING",
+      "points": 3250,
+      "rating": 3200,
+      "tags": "",
+      "color": "#f33",
+      "id": "1584/G"
+    },
+    "1584/F": {
+      "contestId": 1584,
+      "index": "F",
+      "name": "Strange LCS",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1584/F"
+    },
+    "1584/E": {
+      "contestId": 1584,
+      "index": "E",
+      "name": "Game with Stones",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2300,
+      "tags": "",
+      "color": "#ffbb55",
+      "id": "1584/E"
+    },
+    "1584/D": {
+      "contestId": 1584,
+      "index": "D",
+      "name": "Guess the Permutation",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1584/D"
+    },
+    "1584/C": {
+      "contestId": 1584,
+      "index": "C",
+      "name": "Two Arrays",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1584/C"
+    },
+    "1584/B": {
+      "contestId": 1584,
+      "index": "B",
+      "name": "Coloring Rectangles",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1584/B"
+    },
+    "1584/A": {
+      "contestId": 1584,
+      "index": "A",
+      "name": "Mathematical Addition",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1584/A"
+    },
+    "1583/H": {
+      "contestId": 1583,
+      "index": "H",
+      "name": "Omkar and Tours",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "rating": 3300,
+      "tags": "",
+      "color": "#f33",
+      "id": "1583/H"
+    },
+    "1583/G": {
+      "contestId": 1583,
+      "index": "G",
+      "name": "Omkar and Time Travel",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 3000,
+      "tags": "",
+      "color": "#f33",
+      "id": "1583/G"
+    },
+    "1583/F": {
+      "contestId": 1583,
+      "index": "F",
+      "name": "Defender of Childhood Dreams",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 2500,
+      "tags": "",
+      "color": "#f77",
+      "id": "1583/F"
+    },
+    "1583/E": {
+      "contestId": 1583,
+      "index": "E",
+      "name": "Moment of Bloom",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1583/E"
+    },
+    "1583/D": {
+      "contestId": 1583,
+      "index": "D",
+      "name": "Omkar and the Meaning of Life",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1583/D"
+    },
+    "1583/C": {
+      "contestId": 1583,
+      "index": "C",
+      "name": "Omkar and Determination",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1583/C"
+    },
+    "1583/B": {
+      "contestId": 1583,
+      "index": "B",
+      "name": "Omkar and Heavenly Tree",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1583/B"
+    },
+    "1583/A": {
+      "contestId": 1583,
+      "index": "A",
+      "name": "Windblume Ode",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1583/A"
+    },
+    "1582/G": {
+      "contestId": 1582,
+      "index": "G",
+      "name": "Kuzya and Homework",
+      "type": "PROGRAMMING",
+      "points": 3250,
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1582/G"
+    },
+    "1582/F2": {
+      "contestId": 1582,
+      "index": "F2",
+      "name": "Korney Korneevich and XOR (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1582/F2"
+    },
+    "1582/F1": {
+      "contestId": 1582,
+      "index": "F1",
+      "name": "Korney Korneevich and XOR (easy version)",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1582/F1"
+    },
+    "1582/E": {
+      "contestId": 1582,
+      "index": "E",
+      "name": "Pchelyonok and Segments",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1582/E"
+    },
+    "1582/D": {
+      "contestId": 1582,
+      "index": "D",
+      "name": "Vupsen, Pupsen and 0",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1582/D"
+    },
+    "1582/C": {
+      "contestId": 1582,
+      "index": "C",
+      "name": "Grandma Capa Knits a Scarf",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1582/C"
+    },
+    "1582/B": {
+      "contestId": 1582,
+      "index": "B",
+      "name": "Luntik and Subsequences",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1582/B"
+    },
+    "1582/A": {
+      "contestId": 1582,
+      "index": "A",
+      "name": "Luntik and Concerts",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1582/A"
     },
     "1581/B": {
       "contestId": 1581,
@@ -2179,6 +3630,15 @@
       "color": "#f33",
       "id": "1578/A"
     },
+    "1576/A": {
+      "contestId": 1576,
+      "index": "A",
+      "name": "Communication Routing Challenge",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1576/A"
+    },
     "1575/M": {
       "contestId": 1575,
       "index": "M",
@@ -2462,8 +3922,9 @@
       "index": "J",
       "name": "Two Railroads",
       "type": "PROGRAMMING",
+      "rating": 3000,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1571/J"
     },
     "1571/I": {
@@ -2471,8 +3932,9 @@
       "index": "I",
       "name": "Physical Examination",
       "type": "PROGRAMMING",
+      "rating": 3200,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1571/I"
     },
     "1571/H": {
@@ -2480,8 +3942,9 @@
       "index": "H",
       "name": "Laser Beams",
       "type": "PROGRAMMING",
+      "rating": 2900,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1571/H"
     },
     "1571/G": {
@@ -2489,8 +3952,9 @@
       "index": "G",
       "name": "A Battle Against a Dragon",
       "type": "PROGRAMMING",
+      "rating": 2500,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1571/G"
     },
     "1571/F": {
@@ -2498,8 +3962,9 @@
       "index": "F",
       "name": "Kotlinforces",
       "type": "PROGRAMMING",
+      "rating": 2000,
       "tags": "",
-      "color": "#fff",
+      "color": "#f988ff",
       "id": "1571/F"
     },
     "1571/E": {
@@ -2507,8 +3972,9 @@
       "index": "E",
       "name": "Fix the String",
       "type": "PROGRAMMING",
+      "rating": 1700,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1571/E"
     },
     "1571/D": {
@@ -2516,8 +3982,9 @@
       "index": "D",
       "name": "Sweepstake",
       "type": "PROGRAMMING",
+      "rating": 1800,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1571/D"
     },
     "1571/C": {
@@ -2525,8 +3992,9 @@
       "index": "C",
       "name": "Rhyme",
       "type": "PROGRAMMING",
+      "rating": 1800,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1571/C"
     },
     "1571/B": {
@@ -2534,8 +4002,9 @@
       "index": "B",
       "name": "Epic Novel",
       "type": "PROGRAMMING",
+      "rating": 1300,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1571/B"
     },
     "1571/A": {
@@ -2543,8 +4012,9 @@
       "index": "A",
       "name": "Sequence of Comparisons",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1571/A"
     },
     "1570/I": {
@@ -89379,6 +90849,9 @@
       "1575/B",
       "1575/A"
     ],
+    "1576": [
+      "1576/A"
+    ],
     "1578": [
       "1578/M",
       "1578/L",
@@ -89416,6 +90889,50 @@
       "1581/B",
       "1581/A"
     ],
+    "1582": [
+      "1582/G",
+      "1582/F2",
+      "1582/F1",
+      "1582/E",
+      "1582/D",
+      "1582/C",
+      "1582/B",
+      "1582/A"
+    ],
+    "1583": [
+      "1583/H",
+      "1583/G",
+      "1583/F",
+      "1583/E",
+      "1583/D",
+      "1583/C",
+      "1583/B",
+      "1583/A"
+    ],
+    "1584": [
+      "1584/G",
+      "1584/F",
+      "1584/E",
+      "1584/D",
+      "1584/C",
+      "1584/B",
+      "1584/A"
+    ],
+    "1585": [
+      "1585/G",
+      "1585/F",
+      "1585/E",
+      "1585/D",
+      "1585/C",
+      "1585/B",
+      "1585/A"
+    ],
+    "1586": [
+      "1586/I"
+    ],
+    "1588": [
+      "1588/F"
+    ],
     "1592": [
       "1592/F2",
       "1592/F1",
@@ -89424,6 +90941,16 @@
       "1592/C",
       "1592/B",
       "1592/A"
+    ],
+    "1593": [
+      "1593/G",
+      "1593/F",
+      "1593/E",
+      "1593/D2",
+      "1593/D1",
+      "1593/C",
+      "1593/B",
+      "1593/A"
     ],
     "1594": [
       "1594/F",
@@ -89459,6 +90986,130 @@
       "1600/J",
       "1600/F",
       "1600/E"
+    ],
+    "1601": [
+      "1601/F",
+      "1601/E",
+      "1601/D",
+      "1601/C",
+      "1601/B",
+      "1601/A"
+    ],
+    "1602": [
+      "1602/B",
+      "1602/A"
+    ],
+    "1603": [
+      "1603/F",
+      "1603/E",
+      "1603/D",
+      "1603/C",
+      "1603/B",
+      "1603/A"
+    ],
+    "1604": [
+      "1604/B",
+      "1604/A"
+    ],
+    "1605": [
+      "1605/F",
+      "1605/E",
+      "1605/D",
+      "1605/C",
+      "1605/B",
+      "1605/A"
+    ],
+    "1606": [
+      "1606/F",
+      "1606/E",
+      "1606/D",
+      "1606/C",
+      "1606/B",
+      "1606/A"
+    ],
+    "1607": [
+      "1607/H",
+      "1607/G",
+      "1607/F",
+      "1607/E",
+      "1607/D",
+      "1607/C",
+      "1607/B",
+      "1607/A"
+    ],
+    "1608": [
+      "1608/G",
+      "1608/F",
+      "1608/E",
+      "1608/D",
+      "1608/C",
+      "1608/B",
+      "1608/A"
+    ],
+    "1609": [
+      "1609/H",
+      "1609/G",
+      "1609/F",
+      "1609/E",
+      "1609/D",
+      "1609/C",
+      "1609/B",
+      "1609/A"
+    ],
+    "1610": [
+      "1610/I",
+      "1610/H",
+      "1610/G",
+      "1610/F",
+      "1610/E",
+      "1610/D",
+      "1610/C",
+      "1610/B",
+      "1610/A"
+    ],
+    "1611": [
+      "1611/G",
+      "1611/F",
+      "1611/E2",
+      "1611/E1",
+      "1611/D",
+      "1611/C",
+      "1611/B",
+      "1611/A"
+    ],
+    "1612": [
+      "1612/G",
+      "1612/F",
+      "1612/E",
+      "1612/D",
+      "1612/C",
+      "1612/B",
+      "1612/A"
+    ],
+    "1613": [
+      "1613/F",
+      "1613/E",
+      "1613/D",
+      "1613/C",
+      "1613/B",
+      "1613/A"
+    ],
+    "1614": [
+      "1614/E",
+      "1614/D2",
+      "1614/D1",
+      "1614/C",
+      "1614/B",
+      "1614/A"
+    ],
+    "1618": [
+      "1618/G",
+      "1618/F",
+      "1618/E",
+      "1618/D",
+      "1618/C",
+      "1618/B",
+      "1618/A"
     ]
   }
 }
