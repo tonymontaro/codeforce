@@ -1,6 +1,7 @@
 {
   "groups": {
     "Educational": [
+      1622,
       1620,
       1613,
       1612,
@@ -123,6 +124,7 @@
       598
     ],
     "Div. 3": [
+      1624,
       1619,
       1618,
       1611,
@@ -192,8 +194,10 @@
       977
     ],
     "Div. 2": [
+      1623,
       1617,
       1591,
+      1625,
       1608,
       1609,
       1614,
@@ -1554,6 +1558,370 @@
     ]
   },
   "problems": {
+    "1623/E": {
+      "contestId": 1623,
+      "index": "E",
+      "name": "Middle Duplication",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 2500,
+      "tags": "",
+      "color": "#f77",
+      "id": "1623/E"
+    },
+    "1623/D": {
+      "contestId": 1623,
+      "index": "D",
+      "name": "Robot Cleaner Revisit",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2300,
+      "tags": "",
+      "color": "#ffbb55",
+      "id": "1623/D"
+    },
+    "1623/C": {
+      "contestId": 1623,
+      "index": "C",
+      "name": "Balanced Stone Heaps",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1623/C"
+    },
+    "1623/B": {
+      "contestId": 1623,
+      "index": "B",
+      "name": "Game on Ranges",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1623/B"
+    },
+    "1623/A": {
+      "contestId": 1623,
+      "index": "A",
+      "name": "Robot Cleaner",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1623/A"
+    },
+    "1622/F": {
+      "contestId": 1622,
+      "index": "F",
+      "name": "Quadratic Set",
+      "type": "PROGRAMMING",
+      "rating": 2900,
+      "tags": "",
+      "color": "#f33",
+      "id": "1622/F"
+    },
+    "1622/E": {
+      "contestId": 1622,
+      "index": "E",
+      "name": "Math Test",
+      "type": "PROGRAMMING",
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1622/E"
+    },
+    "1622/D": {
+      "contestId": 1622,
+      "index": "D",
+      "name": "Shuffle",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1622/D"
+    },
+    "1622/C": {
+      "contestId": 1622,
+      "index": "C",
+      "name": "Set or Decrease",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1622/C"
+    },
+    "1622/B": {
+      "contestId": 1622,
+      "index": "B",
+      "name": "Berland Music",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1622/B"
+    },
+    "1622/A": {
+      "contestId": 1622,
+      "index": "A",
+      "name": "Construct a Rectangle",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1622/A"
+    },
+    "1621/I": {
+      "contestId": 1621,
+      "index": "I",
+      "name": "Two Sequences",
+      "type": "PROGRAMMING",
+      "points": 4500,
+      "rating": 3500,
+      "tags": "",
+      "color": "#f33",
+      "id": "1621/I"
+    },
+    "1621/H": {
+      "contestId": 1621,
+      "index": "H",
+      "name": "Trains and Airplanes",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "rating": 3500,
+      "tags": "",
+      "color": "#f33",
+      "id": "1621/H"
+    },
+    "1621/G": {
+      "contestId": 1621,
+      "index": "G",
+      "name": "Weighted Increasing Subsequences",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 3200,
+      "tags": "",
+      "color": "#f33",
+      "id": "1621/G"
+    },
+    "1621/F": {
+      "contestId": 1621,
+      "index": "F",
+      "name": "Strange Instructions",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 2700,
+      "tags": "",
+      "color": "#f33",
+      "id": "1621/F"
+    },
+    "1621/E": {
+      "contestId": 1621,
+      "index": "E",
+      "name": "New School",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "rating": 2300,
+      "tags": "",
+      "color": "#ffbb55",
+      "id": "1621/E"
+    },
+    "1621/D": {
+      "contestId": 1621,
+      "index": "D",
+      "name": "The Winter Hike",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "rating": 2100,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1621/D"
+    },
+    "1621/C": {
+      "contestId": 1621,
+      "index": "C",
+      "name": "Hidden Permutations",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1621/C"
+    },
+    "1621/B": {
+      "contestId": 1621,
+      "index": "B",
+      "name": "Integers Shop",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1500,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1621/B"
+    },
+    "1621/A": {
+      "contestId": 1621,
+      "index": "A",
+      "name": "Stable Arrangement of Rooks",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1621/A"
+    },
+    "1620/G": {
+      "contestId": 1620,
+      "index": "G",
+      "name": "Subsequences Galore",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1620/G"
+    },
+    "1620/F": {
+      "contestId": 1620,
+      "index": "F",
+      "name": "Bipartite Array",
+      "type": "PROGRAMMING",
+      "rating": 2800,
+      "tags": "",
+      "color": "#f33",
+      "id": "1620/F"
+    },
+    "1620/E": {
+      "contestId": 1620,
+      "index": "E",
+      "name": "Replace the Numbers",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1620/E"
+    },
+    "1620/D": {
+      "contestId": 1620,
+      "index": "D",
+      "name": "Exact Change",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1620/D"
+    },
+    "1620/C": {
+      "contestId": 1620,
+      "index": "C",
+      "name": "BA-String",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1620/C"
+    },
+    "1620/B": {
+      "contestId": 1620,
+      "index": "B",
+      "name": "Triangles on a Rectangle",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1620/B"
+    },
+    "1620/A": {
+      "contestId": 1620,
+      "index": "A",
+      "name": "Equal or Not Equal",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1620/A"
+    },
+    "1619/H": {
+      "contestId": 1619,
+      "index": "H",
+      "name": "Permutation and Queries",
+      "type": "PROGRAMMING",
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1619/H"
+    },
+    "1619/G": {
+      "contestId": 1619,
+      "index": "G",
+      "name": "Unusual Minesweeper",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1619/G"
+    },
+    "1619/F": {
+      "contestId": 1619,
+      "index": "F",
+      "name": "Let's Play the Hat?",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1619/F"
+    },
+    "1619/E": {
+      "contestId": 1619,
+      "index": "E",
+      "name": "MEX and Increments",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1619/E"
+    },
+    "1619/D": {
+      "contestId": 1619,
+      "index": "D",
+      "name": "New Year's Problem",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1619/D"
+    },
+    "1619/C": {
+      "contestId": 1619,
+      "index": "C",
+      "name": "Wrong Addition",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1619/C"
+    },
+    "1619/B": {
+      "contestId": 1619,
+      "index": "B",
+      "name": "Squares and Cubes",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1619/B"
+    },
+    "1619/A": {
+      "contestId": 1619,
+      "index": "A",
+      "name": "Square String?",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1619/A"
+    },
     "1618/G": {
       "contestId": 1618,
       "index": "G",
@@ -1623,6 +1991,248 @@
       "tags": "",
       "color": "#ccc",
       "id": "1618/A"
+    },
+    "1617/E": {
+      "contestId": 1617,
+      "index": "E",
+      "name": "Christmas Chocolates",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 2700,
+      "tags": "",
+      "color": "#f33",
+      "id": "1617/E"
+    },
+    "1617/D2": {
+      "contestId": 1617,
+      "index": "D2",
+      "name": "Too Many Impostors (hard version)",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1617/D2"
+    },
+    "1617/D1": {
+      "contestId": 1617,
+      "index": "D1",
+      "name": "Too Many Impostors (easy version)",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1617/D1"
+    },
+    "1617/C": {
+      "contestId": 1617,
+      "index": "C",
+      "name": "Paprika and Permutation",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1617/C"
+    },
+    "1617/B": {
+      "contestId": 1617,
+      "index": "B",
+      "name": "GCD Problem",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1617/B"
+    },
+    "1617/A": {
+      "contestId": 1617,
+      "index": "A",
+      "name": "Forbidden Subsequence",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1617/A"
+    },
+    "1616/H": {
+      "contestId": 1616,
+      "index": "H",
+      "name": "Keep XOR Low",
+      "type": "PROGRAMMING",
+      "points": 4000,
+      "rating": 3000,
+      "tags": "",
+      "color": "#f33",
+      "id": "1616/H"
+    },
+    "1616/G": {
+      "contestId": 1616,
+      "index": "G",
+      "name": "Just Add an Edge",
+      "type": "PROGRAMMING",
+      "points": 3500,
+      "rating": 3500,
+      "tags": "",
+      "color": "#f33",
+      "id": "1616/G"
+    },
+    "1616/F": {
+      "contestId": 1616,
+      "index": "F",
+      "name": "Tricolor Triangles",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 2900,
+      "tags": "",
+      "color": "#f33",
+      "id": "1616/F"
+    },
+    "1616/E": {
+      "contestId": 1616,
+      "index": "E",
+      "name": "Lexicographically Small Enough",
+      "type": "PROGRAMMING",
+      "points": 2500,
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1616/E"
+    },
+    "1616/D": {
+      "contestId": 1616,
+      "index": "D",
+      "name": "Keep the Average High",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2000,
+      "tags": "",
+      "color": "#f988ff",
+      "id": "1616/D"
+    },
+    "1616/C": {
+      "contestId": 1616,
+      "index": "C",
+      "name": "Representative Edges",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1500,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1616/C"
+    },
+    "1616/B": {
+      "contestId": 1616,
+      "index": "B",
+      "name": "Mirror in the String",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1616/B"
+    },
+    "1616/A": {
+      "contestId": 1616,
+      "index": "A",
+      "name": "Integer Diversity",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1616/A"
+    },
+    "1615/H": {
+      "contestId": 1615,
+      "index": "H",
+      "name": "Reindeer Games",
+      "type": "PROGRAMMING",
+      "points": 4000,
+      "rating": 3000,
+      "tags": "",
+      "color": "#f33",
+      "id": "1615/H"
+    },
+    "1615/G": {
+      "contestId": 1615,
+      "index": "G",
+      "name": "Maximum Adjacent Pairs",
+      "type": "PROGRAMMING",
+      "points": 3750,
+      "rating": 3300,
+      "tags": "",
+      "color": "#f33",
+      "id": "1615/G"
+    },
+    "1615/F": {
+      "contestId": 1615,
+      "index": "F",
+      "name": "LEGOndary Grandmaster",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 2800,
+      "tags": "",
+      "color": "#f33",
+      "id": "1615/F"
+    },
+    "1615/E": {
+      "contestId": 1615,
+      "index": "E",
+      "name": "Purple Crayon",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1615/E"
+    },
+    "1615/D": {
+      "contestId": 1615,
+      "index": "D",
+      "name": "X(or)-mas Tree",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1615/D"
+    },
+    "1615/C": {
+      "contestId": 1615,
+      "index": "C",
+      "name": "Menorah",
+      "type": "PROGRAMMING",
+      "points": 1750,
+      "rating": 1600,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1615/C"
+    },
+    "1615/B": {
+      "contestId": 1615,
+      "index": "B",
+      "name": "And It's Non-Zero",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1615/B"
+    },
+    "1615/A": {
+      "contestId": 1615,
+      "index": "A",
+      "name": "Closing The Gap",
+      "type": "PROGRAMMING",
+      "points": 250,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1615/A"
     },
     "1614/E": {
       "contestId": 1614,
@@ -91102,6 +91712,34 @@
       "1614/B",
       "1614/A"
     ],
+    "1615": [
+      "1615/H",
+      "1615/G",
+      "1615/F",
+      "1615/E",
+      "1615/D",
+      "1615/C",
+      "1615/B",
+      "1615/A"
+    ],
+    "1616": [
+      "1616/H",
+      "1616/G",
+      "1616/F",
+      "1616/E",
+      "1616/D",
+      "1616/C",
+      "1616/B",
+      "1616/A"
+    ],
+    "1617": [
+      "1617/E",
+      "1617/D2",
+      "1617/D1",
+      "1617/C",
+      "1617/B",
+      "1617/A"
+    ],
     "1618": [
       "1618/G",
       "1618/F",
@@ -91110,6 +91748,51 @@
       "1618/C",
       "1618/B",
       "1618/A"
+    ],
+    "1619": [
+      "1619/H",
+      "1619/G",
+      "1619/F",
+      "1619/E",
+      "1619/D",
+      "1619/C",
+      "1619/B",
+      "1619/A"
+    ],
+    "1620": [
+      "1620/G",
+      "1620/F",
+      "1620/E",
+      "1620/D",
+      "1620/C",
+      "1620/B",
+      "1620/A"
+    ],
+    "1621": [
+      "1621/I",
+      "1621/H",
+      "1621/G",
+      "1621/F",
+      "1621/E",
+      "1621/D",
+      "1621/C",
+      "1621/B",
+      "1621/A"
+    ],
+    "1622": [
+      "1622/F",
+      "1622/E",
+      "1622/D",
+      "1622/C",
+      "1622/B",
+      "1622/A"
+    ],
+    "1623": [
+      "1623/E",
+      "1623/D",
+      "1623/C",
+      "1623/B",
+      "1623/A"
     ]
   }
 }
