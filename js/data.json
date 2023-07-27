@@ -1,6 +1,7 @@
 {
   "groups": {
     "Educational": [
+      1849,
       1845,
       1841,
       1837,
@@ -155,6 +156,7 @@
       598
     ],
     "Div. 3": [
+      1851,
       1846,
       1843,
       1840,
@@ -245,6 +247,9 @@
       977
     ],
     "Div. 2": [
+      1856,
+      1855,
+      1853,
       1848,
       1844,
       1847,
@@ -1026,6 +1031,8 @@
       4
     ],
     "Div. 1": [
+      1854,
+      1852,
       1835,
       1830,
       1827,
@@ -1364,6 +1371,7 @@
       77
     ],
     "other": [
+      1850,
       1829,
       1813,
       1812,
@@ -1769,14 +1777,366 @@
     ]
   },
   "problems": {
+    "1853/B": {
+      "contestId": 1853,
+      "index": "B",
+      "name": "Fibonaccharsis",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1853/B"
+    },
+    "1853/A": {
+      "contestId": 1853,
+      "index": "A",
+      "name": "Desorting",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1853/A"
+    },
+    "1852/F": {
+      "contestId": 1852,
+      "index": "F",
+      "name": "Panda Meetups",
+      "type": "PROGRAMMING",
+      "points": 3000,
+      "rating": 3500,
+      "tags": "",
+      "color": "#f33",
+      "id": "1852/F"
+    },
+    "1852/E": {
+      "contestId": 1852,
+      "index": "E",
+      "name": "Rivalries",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "rating": 3400,
+      "tags": "",
+      "color": "#f33",
+      "id": "1852/E"
+    },
+    "1852/D": {
+      "contestId": 1852,
+      "index": "D",
+      "name": "Miriany and Matchstick",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2800,
+      "tags": "",
+      "color": "#f33",
+      "id": "1852/D"
+    },
+    "1852/C": {
+      "contestId": 1852,
+      "index": "C",
+      "name": "Ina of the Mountain",
+      "type": "PROGRAMMING",
+      "points": 1250,
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1852/C"
+    },
+    "1852/B": {
+      "contestId": 1852,
+      "index": "B",
+      "name": "Imbalanced Arrays",
+      "type": "PROGRAMMING",
+      "points": 750,
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1852/B"
+    },
+    "1852/A": {
+      "contestId": 1852,
+      "index": "A",
+      "name": "Ntarsis' Set",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1852/A"
+    },
+    "1851/G": {
+      "contestId": 1851,
+      "index": "G",
+      "name": "Vlad and the Mountains",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1851/G"
+    },
+    "1851/F": {
+      "contestId": 1851,
+      "index": "F",
+      "name": "Lisa and the Martians",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1851/F"
+    },
+    "1851/E": {
+      "contestId": 1851,
+      "index": "E",
+      "name": "Nastya and Potions",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1851/E"
+    },
+    "1851/D": {
+      "contestId": 1851,
+      "index": "D",
+      "name": "Prefix Permutation Sums",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1851/D"
+    },
+    "1851/C": {
+      "contestId": 1851,
+      "index": "C",
+      "name": "Tiles Comeback",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1851/C"
+    },
+    "1851/B": {
+      "contestId": 1851,
+      "index": "B",
+      "name": "Parity Sort",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1851/B"
+    },
+    "1851/A": {
+      "contestId": 1851,
+      "index": "A",
+      "name": "Escalator Conversations",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1851/A"
+    },
+    "1850/H": {
+      "contestId": 1850,
+      "index": "H",
+      "name": "The Third Letter",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1850/H"
+    },
+    "1850/G": {
+      "contestId": 1850,
+      "index": "G",
+      "name": "The Morning Star",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": "",
+      "color": "#77ddbb",
+      "id": "1850/G"
+    },
+    "1850/F": {
+      "contestId": 1850,
+      "index": "F",
+      "name": "We Were Both Children",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1850/F"
+    },
+    "1850/E": {
+      "contestId": 1850,
+      "index": "E",
+      "name": "Cardboard for Pictures",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1850/E"
+    },
+    "1850/D": {
+      "contestId": 1850,
+      "index": "D",
+      "name": "Balanced Round",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1850/D"
+    },
+    "1850/C": {
+      "contestId": 1850,
+      "index": "C",
+      "name": "Word on the Paper",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1850/C"
+    },
+    "1850/B": {
+      "contestId": 1850,
+      "index": "B",
+      "name": "Ten Words of Wisdom",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1850/B"
+    },
+    "1850/A": {
+      "contestId": 1850,
+      "index": "A",
+      "name": "To My Critics",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1850/A"
+    },
+    "1849/F": {
+      "contestId": 1849,
+      "index": "F",
+      "name": "XOR Partition",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1849/F"
+    },
+    "1849/E": {
+      "contestId": 1849,
+      "index": "E",
+      "name": "Max to the Right of Min",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1849/E"
+    },
+    "1849/D": {
+      "contestId": 1849,
+      "index": "D",
+      "name": "Array Painting",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1849/D"
+    },
+    "1849/C": {
+      "contestId": 1849,
+      "index": "C",
+      "name": "Binary String Copying",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1849/C"
+    },
+    "1849/B": {
+      "contestId": 1849,
+      "index": "B",
+      "name": "Monsters",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1849/B"
+    },
+    "1849/A": {
+      "contestId": 1849,
+      "index": "A",
+      "name": "Morning Sandwich",
+      "type": "PROGRAMMING",
+      "tags": "",
+      "color": "#fff",
+      "id": "1849/A"
+    },
+    "1848/F": {
+      "contestId": 1848,
+      "index": "F",
+      "name": "Vika and Wiki",
+      "type": "PROGRAMMING",
+      "points": 2750,
+      "rating": 2400,
+      "tags": "",
+      "color": "#f77",
+      "id": "1848/F"
+    },
+    "1848/E": {
+      "contestId": 1848,
+      "index": "E",
+      "name": "Vika and Stone Skipping",
+      "type": "PROGRAMMING",
+      "points": 2250,
+      "rating": 2600,
+      "tags": "",
+      "color": "#f33",
+      "id": "1848/E"
+    },
+    "1848/D": {
+      "contestId": 1848,
+      "index": "D",
+      "name": "Vika and Bonuses",
+      "type": "PROGRAMMING",
+      "points": 2000,
+      "rating": 2200,
+      "tags": "",
+      "color": "#fdcc87",
+      "id": "1848/D"
+    },
+    "1848/C": {
+      "contestId": 1848,
+      "index": "C",
+      "name": "Vika and Price Tags",
+      "type": "PROGRAMMING",
+      "points": 1500,
+      "rating": 1800,
+      "tags": "",
+      "color": "#aaf",
+      "id": "1848/C"
+    },
+    "1848/B": {
+      "contestId": 1848,
+      "index": "B",
+      "name": "Vika and the Bridge",
+      "type": "PROGRAMMING",
+      "points": 1000,
+      "rating": 1200,
+      "tags": "",
+      "color": "#76fd77",
+      "id": "1848/B"
+    },
+    "1848/A": {
+      "contestId": 1848,
+      "index": "A",
+      "name": "Vika and Her Friends",
+      "type": "PROGRAMMING",
+      "points": 500,
+      "rating": 900,
+      "tags": "",
+      "color": "#ccc",
+      "id": "1848/A"
+    },
     "1847/F": {
       "contestId": 1847,
       "index": "F",
       "name": "The Boss's Identity",
       "type": "PROGRAMMING",
       "points": 3000,
+      "rating": 2500,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1847/F"
     },
     "1847/E": {
@@ -1785,8 +2145,9 @@
       "name": "Triangle Platinum?",
       "type": "PROGRAMMING",
       "points": 2750,
+      "rating": 2900,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1847/E"
     },
     "1847/D": {
@@ -1795,8 +2156,9 @@
       "name": "Professor Higashikata",
       "type": "PROGRAMMING",
       "points": 2000,
+      "rating": 1900,
       "tags": "",
-      "color": "#fff",
+      "color": "#f988ff",
       "id": "1847/D"
     },
     "1847/C": {
@@ -1805,8 +2167,9 @@
       "name": "Vampiric Powers, anyone?",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 1400,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1847/C"
     },
     "1847/B": {
@@ -1815,8 +2178,9 @@
       "name": "Hamon Odyssey",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 1000,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1847/B"
     },
     "1847/A": {
@@ -1825,8 +2189,9 @@
       "name": "The Man who became a God ",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1847/A"
     },
     "1846/G": {
@@ -1834,8 +2199,9 @@
       "index": "G",
       "name": "Rudolf and CodeVid-23",
       "type": "PROGRAMMING",
+      "rating": 1900,
       "tags": "",
-      "color": "#fff",
+      "color": "#f988ff",
       "id": "1846/G"
     },
     "1846/F": {
@@ -1843,8 +2209,9 @@
       "index": "F",
       "name": "Rudolph and Mimic",
       "type": "PROGRAMMING",
+      "rating": 1800,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1846/F"
     },
     "1846/E2": {
@@ -1852,8 +2219,9 @@
       "index": "E2",
       "name": "Rudolf and Snowflakes (hard version)",
       "type": "PROGRAMMING",
+      "rating": 1800,
       "tags": "",
-      "color": "#fff",
+      "color": "#aaf",
       "id": "1846/E2"
     },
     "1846/E1": {
@@ -1861,8 +2229,9 @@
       "index": "E1",
       "name": "Rudolf and Snowflakes (simple version)",
       "type": "PROGRAMMING",
+      "rating": 1300,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1846/E1"
     },
     "1846/D": {
@@ -1870,8 +2239,9 @@
       "index": "D",
       "name": "Rudolph and Christmas Tree",
       "type": "PROGRAMMING",
+      "rating": 1200,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1846/D"
     },
     "1846/C": {
@@ -1879,8 +2249,9 @@
       "index": "C",
       "name": "Rudolf and the Another Competition",
       "type": "PROGRAMMING",
+      "rating": 1200,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1846/C"
     },
     "1846/B": {
@@ -1888,8 +2259,9 @@
       "index": "B",
       "name": "Rudolph and Tic-Tac-Toe",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1846/B"
     },
     "1846/A": {
@@ -1897,8 +2269,9 @@
       "index": "A",
       "name": "Rudolph and Cut the Rope ",
       "type": "PROGRAMMING",
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1846/A"
     },
     "1845/F": {
@@ -1967,8 +2340,9 @@
       "name": "Multiple of Three Cycles",
       "type": "PROGRAMMING",
       "points": 4000,
+      "rating": 3400,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1844/H"
     },
     "1844/G": {
@@ -1977,8 +2351,9 @@
       "name": "Tree Weights",
       "type": "PROGRAMMING",
       "points": 3500,
+      "rating": 3000,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1844/G"
     },
     "1844/F2": {
@@ -1987,8 +2362,9 @@
       "name": "Min Cost Permutation (Hard Version)",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 2800,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1844/F2"
     },
     "1844/F1": {
@@ -1997,8 +2373,9 @@
       "name": "Min Cost Permutation (Easy Version)",
       "type": "PROGRAMMING",
       "points": 2000,
+      "rating": 2600,
       "tags": "",
-      "color": "#fff",
+      "color": "#f33",
       "id": "1844/F1"
     },
     "1844/E": {
@@ -2007,8 +2384,9 @@
       "name": "Great Grids",
       "type": "PROGRAMMING",
       "points": 2000,
+      "rating": 2400,
       "tags": "",
-      "color": "#fff",
+      "color": "#f77",
       "id": "1844/E"
     },
     "1844/D": {
@@ -2017,8 +2395,9 @@
       "name": "Row Major",
       "type": "PROGRAMMING",
       "points": 1500,
+      "rating": 1400,
       "tags": "",
-      "color": "#fff",
+      "color": "#77ddbb",
       "id": "1844/D"
     },
     "1844/C": {
@@ -2027,8 +2406,9 @@
       "name": "Particles",
       "type": "PROGRAMMING",
       "points": 1250,
+      "rating": 1300,
       "tags": "",
-      "color": "#fff",
+      "color": "#76fd77",
       "id": "1844/C"
     },
     "1844/B": {
@@ -2037,8 +2417,9 @@
       "name": "Permutations & Primes",
       "type": "PROGRAMMING",
       "points": 1000,
+      "rating": 1000,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1844/B"
     },
     "1844/A": {
@@ -2047,8 +2428,9 @@
       "name": "Subtraction Game",
       "type": "PROGRAMMING",
       "points": 500,
+      "rating": 800,
       "tags": "",
-      "color": "#fff",
+      "color": "#ccc",
       "id": "1844/A"
     },
     "1843/F2": {
@@ -107278,6 +107660,53 @@
       "1847/C",
       "1847/B",
       "1847/A"
+    ],
+    "1848": [
+      "1848/F",
+      "1848/E",
+      "1848/D",
+      "1848/C",
+      "1848/B",
+      "1848/A"
+    ],
+    "1849": [
+      "1849/F",
+      "1849/E",
+      "1849/D",
+      "1849/C",
+      "1849/B",
+      "1849/A"
+    ],
+    "1850": [
+      "1850/H",
+      "1850/G",
+      "1850/F",
+      "1850/E",
+      "1850/D",
+      "1850/C",
+      "1850/B",
+      "1850/A"
+    ],
+    "1851": [
+      "1851/G",
+      "1851/F",
+      "1851/E",
+      "1851/D",
+      "1851/C",
+      "1851/B",
+      "1851/A"
+    ],
+    "1852": [
+      "1852/F",
+      "1852/E",
+      "1852/D",
+      "1852/C",
+      "1852/B",
+      "1852/A"
+    ],
+    "1853": [
+      "1853/B",
+      "1853/A"
     ]
   }
 }
